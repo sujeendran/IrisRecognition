@@ -1,0 +1,2252 @@
+---------------------------------------------------------------------------
+  Img1         Img2                 HD                   Status
+Img_16_1_5.jpg Img_16_2_1.jpg        0.336458           No Match
+Img_16_1_5.jpg Img_19_1_5.jpg        0.406771           No Match
+Img_16_1_5.jpg Img_19_2_4.jpg        0.407813           No Match
+Img_16_1_5.jpg Img_1_1_5.jpg        0.425000           No Match
+Img_16_1_5.jpg Img_1_2_4.jpg        0.407813           No Match
+Img_16_1_5.jpg Img_22_1_5.jpg        0.414063           No Match
+Img_16_1_5.jpg Img_22_2_2.jpg        0.401042           No Match
+Img_16_1_5.jpg Img_24_1_5.jpg        0.404687           No Match
+Img_16_1_5.jpg Img_24_2_3.jpg        0.401042           No Match
+Img_16_1_5.jpg Img_27_1_5.jpg        0.394792           No Match
+Img_16_1_5.jpg Img_27_2_3.jpg        0.403646           No Match
+Img_16_1_5.jpg Img_2_1_1.jpg        0.369271           No Match
+Img_16_1_5.jpg Img_2_2_2.jpg        0.397396           No Match
+Img_16_1_5.jpg Img_32_1_5.jpg        0.398958           No Match
+Img_16_1_5.jpg Img_32_2_4.jpg        0.392188           No Match
+Img_16_1_5.jpg Img_39_1_2.jpg        0.416667           No Match
+Img_16_1_5.jpg Img_39_2_2.jpg        0.415625           No Match
+Img_16_1_5.jpg Img_3_1_5.jpg        0.407292           No Match
+Img_16_1_5.jpg Img_3_2_3.jpg        0.408333           No Match
+Img_16_1_5.jpg Img_41_1_5.jpg        0.400000           No Match
+Img_16_1_5.jpg Img_41_2_3.jpg        0.408333           No Match
+Img_16_1_5.jpg Img_44_1_5.jpg        0.405208           No Match
+Img_16_1_5.jpg Img_44_2_2.jpg        0.409896           No Match
+Img_16_1_5.jpg Img_45_1_5.jpg        0.400521           No Match
+Img_16_1_5.jpg Img_45_2_5.jpg        0.397917           No Match
+Img_16_1_5.jpg Img_46_1_5.jpg        0.398958           No Match
+Img_16_1_5.jpg Img_46_2_4.jpg        0.398958           No Match
+Img_16_1_5.jpg Img_5_1_5.jpg        0.403646           No Match
+Img_16_1_5.jpg Img_5_2_3.jpg        0.403646           No Match
+Img_16_1_5.jpg Img_6_1_1.jpg        0.392708           No Match
+Img_16_1_5.jpg Img_6_2_5.jpg        0.405729           No Match
+Img_16_1_5.jpg Img_8_1_1.jpg        0.419271           No Match
+Img_16_1_5.jpg Img_8_2_1.jpg        0.397917           No Match
+Img_16_2_1.jpg Img_19_1_5.jpg        0.393229           No Match
+Img_16_2_1.jpg Img_19_2_4.jpg        0.383854           No Match
+Img_16_2_1.jpg Img_1_1_5.jpg        0.410417           No Match
+Img_16_2_1.jpg Img_1_2_4.jpg        0.377604           No Match
+Img_16_2_1.jpg Img_22_1_5.jpg        0.389062           No Match
+Img_16_2_1.jpg Img_22_2_2.jpg        0.395833           No Match
+Img_16_2_1.jpg Img_24_1_5.jpg        0.401562           No Match
+Img_16_2_1.jpg Img_24_2_3.jpg        0.379167           No Match
+Img_16_2_1.jpg Img_27_1_5.jpg        0.402083           No Match
+Img_16_2_1.jpg Img_27_2_3.jpg        0.397396           No Match
+Img_16_2_1.jpg Img_2_1_1.jpg        0.378646           No Match
+Img_16_2_1.jpg Img_2_2_2.jpg        0.383854           No Match
+Img_16_2_1.jpg Img_32_1_5.jpg        0.375000           No Match
+Img_16_2_1.jpg Img_32_2_4.jpg        0.386979           No Match
+Img_16_2_1.jpg Img_39_1_2.jpg        0.420833           No Match
+Img_16_2_1.jpg Img_39_2_2.jpg        0.412500           No Match
+Img_16_2_1.jpg Img_3_1_5.jpg        0.367708           No Match
+Img_16_2_1.jpg Img_3_2_3.jpg        0.380208           No Match
+Img_16_2_1.jpg Img_41_1_5.jpg        0.387500           No Match
+Img_16_2_1.jpg Img_41_2_3.jpg        0.393750           No Match
+Img_16_2_1.jpg Img_44_1_5.jpg        0.408333           No Match
+Img_16_2_1.jpg Img_44_2_2.jpg        0.389062           No Match
+Img_16_2_1.jpg Img_45_1_5.jpg        0.399479           No Match
+Img_16_2_1.jpg Img_45_2_5.jpg        0.391667           No Match
+Img_16_2_1.jpg Img_46_1_5.jpg        0.383333           No Match
+Img_16_2_1.jpg Img_46_2_4.jpg        0.391667           No Match
+Img_16_2_1.jpg Img_5_1_5.jpg        0.380729           No Match
+Img_16_2_1.jpg Img_5_2_3.jpg        0.373437           No Match
+Img_16_2_1.jpg Img_6_1_1.jpg        0.392708           No Match
+Img_16_2_1.jpg Img_6_2_5.jpg        0.382813           No Match
+Img_16_2_1.jpg Img_8_1_1.jpg        0.390104           No Match
+Img_16_2_1.jpg Img_8_2_1.jpg        0.377083           No Match
+Img_19_1_5.jpg Img_19_2_4.jpg        0.281250              Match
+Img_19_1_5.jpg Img_1_1_5.jpg        0.382813           No Match
+Img_19_1_5.jpg Img_1_2_4.jpg        0.361458           No Match
+Img_19_1_5.jpg Img_22_1_5.jpg        0.385417           No Match
+Img_19_1_5.jpg Img_22_2_2.jpg        0.384896           No Match
+Img_19_1_5.jpg Img_24_1_5.jpg        0.397917           No Match
+Img_19_1_5.jpg Img_24_2_3.jpg        0.379688           No Match
+Img_19_1_5.jpg Img_27_1_5.jpg        0.392188           No Match
+Img_19_1_5.jpg Img_27_2_3.jpg        0.401042           No Match
+Img_19_1_5.jpg Img_2_1_1.jpg        0.392708           No Match
+Img_19_1_5.jpg Img_2_2_2.jpg        0.397917           No Match
+Img_19_1_5.jpg Img_32_1_5.jpg        0.381771           No Match
+Img_19_1_5.jpg Img_32_2_4.jpg        0.389583           No Match
+Img_19_1_5.jpg Img_39_1_2.jpg        0.413021           No Match
+Img_19_1_5.jpg Img_39_2_2.jpg        0.421354           No Match
+Img_19_1_5.jpg Img_3_1_5.jpg        0.361979           No Match
+Img_19_1_5.jpg Img_3_2_3.jpg        0.359896           No Match
+Img_19_1_5.jpg Img_41_1_5.jpg        0.361979           No Match
+Img_19_1_5.jpg Img_41_2_3.jpg        0.358854           No Match
+Img_19_1_5.jpg Img_44_1_5.jpg        0.382813           No Match
+Img_19_1_5.jpg Img_44_2_2.jpg        0.376042           No Match
+Img_19_1_5.jpg Img_45_1_5.jpg        0.388542           No Match
+Img_19_1_5.jpg Img_45_2_5.jpg        0.394271           No Match
+Img_19_1_5.jpg Img_46_1_5.jpg        0.385937           No Match
+Img_19_1_5.jpg Img_46_2_4.jpg        0.388021           No Match
+Img_19_1_5.jpg Img_5_1_5.jpg        0.379167           No Match
+Img_19_1_5.jpg Img_5_2_3.jpg        0.388542           No Match
+Img_19_1_5.jpg Img_6_1_1.jpg        0.367188           No Match
+Img_19_1_5.jpg Img_6_2_5.jpg        0.361458           No Match
+Img_19_1_5.jpg Img_8_1_1.jpg        0.366667           No Match
+Img_19_1_5.jpg Img_8_2_1.jpg        0.353646           No Match
+Img_19_2_4.jpg Img_1_1_5.jpg        0.397396           No Match
+Img_19_2_4.jpg Img_1_2_4.jpg        0.390625           No Match
+Img_19_2_4.jpg Img_22_1_5.jpg        0.364583           No Match
+Img_19_2_4.jpg Img_22_2_2.jpg        0.394271           No Match
+Img_19_2_4.jpg Img_24_1_5.jpg        0.390625           No Match
+Img_19_2_4.jpg Img_24_2_3.jpg        0.377604           No Match
+Img_19_2_4.jpg Img_27_1_5.jpg        0.373437           No Match
+Img_19_2_4.jpg Img_27_2_3.jpg        0.380208           No Match
+Img_19_2_4.jpg Img_2_1_1.jpg        0.369792           No Match
+Img_19_2_4.jpg Img_2_2_2.jpg        0.372917           No Match
+Img_19_2_4.jpg Img_32_1_5.jpg        0.386979           No Match
+Img_19_2_4.jpg Img_32_2_4.jpg        0.384375           No Match
+Img_19_2_4.jpg Img_39_1_2.jpg        0.413021           No Match
+Img_19_2_4.jpg Img_39_2_2.jpg        0.405729           No Match
+Img_19_2_4.jpg Img_3_1_5.jpg        0.350521           No Match
+Img_19_2_4.jpg Img_3_2_3.jpg        0.355729           No Match
+Img_19_2_4.jpg Img_41_1_5.jpg        0.360938           No Match
+Img_19_2_4.jpg Img_41_2_3.jpg        0.355729           No Match
+Img_19_2_4.jpg Img_44_1_5.jpg        0.371354           No Match
+Img_19_2_4.jpg Img_44_2_2.jpg        0.369792           No Match
+Img_19_2_4.jpg Img_45_1_5.jpg        0.380208           No Match
+Img_19_2_4.jpg Img_45_2_5.jpg        0.382813           No Match
+Img_19_2_4.jpg Img_46_1_5.jpg        0.360938           No Match
+Img_19_2_4.jpg Img_46_2_4.jpg        0.370312           No Match
+Img_19_2_4.jpg Img_5_1_5.jpg        0.373958           No Match
+Img_19_2_4.jpg Img_5_2_3.jpg        0.358333           No Match
+Img_19_2_4.jpg Img_6_1_1.jpg        0.356771           No Match
+Img_19_2_4.jpg Img_6_2_5.jpg        0.372917           No Match
+Img_19_2_4.jpg Img_8_1_1.jpg        0.361458           No Match
+Img_19_2_4.jpg Img_8_2_1.jpg        0.350521           No Match
+Img_1_1_5.jpg Img_1_2_4.jpg        0.298438              Match
+Img_1_1_5.jpg Img_22_1_5.jpg        0.406771           No Match
+Img_1_1_5.jpg Img_22_2_2.jpg        0.390625           No Match
+Img_1_1_5.jpg Img_24_1_5.jpg        0.392188           No Match
+Img_1_1_5.jpg Img_24_2_3.jpg        0.390625           No Match
+Img_1_1_5.jpg Img_27_1_5.jpg        0.381250           No Match
+Img_1_1_5.jpg Img_27_2_3.jpg        0.391146           No Match
+Img_1_1_5.jpg Img_2_1_1.jpg        0.400521           No Match
+Img_1_1_5.jpg Img_2_2_2.jpg        0.413021           No Match
+Img_1_1_5.jpg Img_32_1_5.jpg        0.398958           No Match
+Img_1_1_5.jpg Img_32_2_4.jpg        0.407813           No Match
+Img_1_1_5.jpg Img_39_1_2.jpg        0.423958           No Match
+Img_1_1_5.jpg Img_39_2_2.jpg        0.396875           No Match
+Img_1_1_5.jpg Img_3_1_5.jpg        0.381250           No Match
+Img_1_1_5.jpg Img_3_2_3.jpg        0.388542           No Match
+Img_1_1_5.jpg Img_41_1_5.jpg        0.392708           No Match
+Img_1_1_5.jpg Img_41_2_3.jpg        0.380208           No Match
+Img_1_1_5.jpg Img_44_1_5.jpg        0.383333           No Match
+Img_1_1_5.jpg Img_44_2_2.jpg        0.401562           No Match
+Img_1_1_5.jpg Img_45_1_5.jpg        0.404687           No Match
+Img_1_1_5.jpg Img_45_2_5.jpg        0.386458           No Match
+Img_1_1_5.jpg Img_46_1_5.jpg        0.388542           No Match
+Img_1_1_5.jpg Img_46_2_4.jpg        0.408333           No Match
+Img_1_1_5.jpg Img_5_1_5.jpg        0.392188           No Match
+Img_1_1_5.jpg Img_5_2_3.jpg        0.395313           No Match
+Img_1_1_5.jpg Img_6_1_1.jpg        0.394792           No Match
+Img_1_1_5.jpg Img_6_2_5.jpg        0.398438           No Match
+Img_1_1_5.jpg Img_8_1_1.jpg        0.384896           No Match
+Img_1_1_5.jpg Img_8_2_1.jpg        0.406250           No Match
+Img_1_2_4.jpg Img_22_1_5.jpg        0.395833           No Match
+Img_1_2_4.jpg Img_22_2_2.jpg        0.393229           No Match
+Img_1_2_4.jpg Img_24_1_5.jpg        0.382292           No Match
+Img_1_2_4.jpg Img_24_2_3.jpg        0.386979           No Match
+Img_1_2_4.jpg Img_27_1_5.jpg        0.371354           No Match
+Img_1_2_4.jpg Img_27_2_3.jpg        0.397917           No Match
+Img_1_2_4.jpg Img_2_1_1.jpg        0.394792           No Match
+Img_1_2_4.jpg Img_2_2_2.jpg        0.405208           No Match
+Img_1_2_4.jpg Img_32_1_5.jpg        0.404687           No Match
+Img_1_2_4.jpg Img_32_2_4.jpg        0.366667           No Match
+Img_1_2_4.jpg Img_39_1_2.jpg        0.414063           No Match
+Img_1_2_4.jpg Img_39_2_2.jpg        0.407813           No Match
+Img_1_2_4.jpg Img_3_1_5.jpg        0.375521           No Match
+Img_1_2_4.jpg Img_3_2_3.jpg        0.380729           No Match
+Img_1_2_4.jpg Img_41_1_5.jpg        0.385937           No Match
+Img_1_2_4.jpg Img_41_2_3.jpg        0.381771           No Match
+Img_1_2_4.jpg Img_44_1_5.jpg        0.377604           No Match
+Img_1_2_4.jpg Img_44_2_2.jpg        0.381250           No Match
+Img_1_2_4.jpg Img_45_1_5.jpg        0.393750           No Match
+Img_1_2_4.jpg Img_45_2_5.jpg        0.391146           No Match
+Img_1_2_4.jpg Img_46_1_5.jpg        0.401562           No Match
+Img_1_2_4.jpg Img_46_2_4.jpg        0.390104           No Match
+Img_1_2_4.jpg Img_5_1_5.jpg        0.365625           No Match
+Img_1_2_4.jpg Img_5_2_3.jpg        0.395833           No Match
+Img_1_2_4.jpg Img_6_1_1.jpg        0.386979           No Match
+Img_1_2_4.jpg Img_6_2_5.jpg        0.379167           No Match
+Img_1_2_4.jpg Img_8_1_1.jpg        0.381250           No Match
+Img_1_2_4.jpg Img_8_2_1.jpg        0.388021           No Match
+Img_22_1_5.jpg Img_22_2_2.jpg        0.392188           No Match
+Img_22_1_5.jpg Img_24_1_5.jpg        0.378125           No Match
+Img_22_1_5.jpg Img_24_2_3.jpg        0.395313           No Match
+Img_22_1_5.jpg Img_27_1_5.jpg        0.384896           No Match
+Img_22_1_5.jpg Img_27_2_3.jpg        0.396875           No Match
+Img_22_1_5.jpg Img_2_1_1.jpg        0.398958           No Match
+Img_22_1_5.jpg Img_2_2_2.jpg        0.377083           No Match
+Img_22_1_5.jpg Img_32_1_5.jpg        0.380729           No Match
+Img_22_1_5.jpg Img_32_2_4.jpg        0.387500           No Match
+Img_22_1_5.jpg Img_39_1_2.jpg        0.419271           No Match
+Img_22_1_5.jpg Img_39_2_2.jpg        0.407813           No Match
+Img_22_1_5.jpg Img_3_1_5.jpg        0.382813           No Match
+Img_22_1_5.jpg Img_3_2_3.jpg        0.380729           No Match
+Img_22_1_5.jpg Img_41_1_5.jpg        0.388021           No Match
+Img_22_1_5.jpg Img_41_2_3.jpg        0.389062           No Match
+Img_22_1_5.jpg Img_44_1_5.jpg        0.379688           No Match
+Img_22_1_5.jpg Img_44_2_2.jpg        0.395833           No Match
+Img_22_1_5.jpg Img_45_1_5.jpg        0.378125           No Match
+Img_22_1_5.jpg Img_45_2_5.jpg        0.379688           No Match
+Img_22_1_5.jpg Img_46_1_5.jpg        0.383854           No Match
+Img_22_1_5.jpg Img_46_2_4.jpg        0.399479           No Match
+Img_22_1_5.jpg Img_5_1_5.jpg        0.370833           No Match
+Img_22_1_5.jpg Img_5_2_3.jpg        0.383333           No Match
+Img_22_1_5.jpg Img_6_1_1.jpg        0.383854           No Match
+Img_22_1_5.jpg Img_6_2_5.jpg        0.385417           No Match
+Img_22_1_5.jpg Img_8_1_1.jpg        0.391667           No Match
+Img_22_1_5.jpg Img_8_2_1.jpg        0.388021           No Match
+Img_22_2_2.jpg Img_24_1_5.jpg        0.405729           No Match
+Img_22_2_2.jpg Img_24_2_3.jpg        0.370833           No Match
+Img_22_2_2.jpg Img_27_1_5.jpg        0.394792           No Match
+Img_22_2_2.jpg Img_27_2_3.jpg        0.368229           No Match
+Img_22_2_2.jpg Img_2_1_1.jpg        0.411979           No Match
+Img_22_2_2.jpg Img_2_2_2.jpg        0.386979           No Match
+Img_22_2_2.jpg Img_32_1_5.jpg        0.394792           No Match
+Img_22_2_2.jpg Img_32_2_4.jpg        0.399479           No Match
+Img_22_2_2.jpg Img_39_1_2.jpg        0.421875           No Match
+Img_22_2_2.jpg Img_39_2_2.jpg        0.393750           No Match
+Img_22_2_2.jpg Img_3_1_5.jpg        0.393750           No Match
+Img_22_2_2.jpg Img_3_2_3.jpg        0.389583           No Match
+Img_22_2_2.jpg Img_41_1_5.jpg        0.384375           No Match
+Img_22_2_2.jpg Img_41_2_3.jpg        0.380208           No Match
+Img_22_2_2.jpg Img_44_1_5.jpg        0.391667           No Match
+Img_22_2_2.jpg Img_44_2_2.jpg        0.398438           No Match
+Img_22_2_2.jpg Img_45_1_5.jpg        0.399479           No Match
+Img_22_2_2.jpg Img_45_2_5.jpg        0.398958           No Match
+Img_22_2_2.jpg Img_46_1_5.jpg        0.387500           No Match
+Img_22_2_2.jpg Img_46_2_4.jpg        0.396875           No Match
+Img_22_2_2.jpg Img_5_1_5.jpg        0.390104           No Match
+Img_22_2_2.jpg Img_5_2_3.jpg        0.391146           No Match
+Img_22_2_2.jpg Img_6_1_1.jpg        0.384375           No Match
+Img_22_2_2.jpg Img_6_2_5.jpg        0.371354           No Match
+Img_22_2_2.jpg Img_8_1_1.jpg        0.394271           No Match
+Img_22_2_2.jpg Img_8_2_1.jpg        0.392708           No Match
+Img_24_1_5.jpg Img_24_2_3.jpg        0.394271           No Match
+Img_24_1_5.jpg Img_27_1_5.jpg        0.393229           No Match
+Img_24_1_5.jpg Img_27_2_3.jpg        0.411458           No Match
+Img_24_1_5.jpg Img_2_1_1.jpg        0.392708           No Match
+Img_24_1_5.jpg Img_2_2_2.jpg        0.389583           No Match
+Img_24_1_5.jpg Img_32_1_5.jpg        0.400521           No Match
+Img_24_1_5.jpg Img_32_2_4.jpg        0.396875           No Match
+Img_24_1_5.jpg Img_39_1_2.jpg        0.410938           No Match
+Img_24_1_5.jpg Img_39_2_2.jpg        0.416146           No Match
+Img_24_1_5.jpg Img_3_1_5.jpg        0.381771           No Match
+Img_24_1_5.jpg Img_3_2_3.jpg        0.385937           No Match
+Img_24_1_5.jpg Img_41_1_5.jpg        0.391146           No Match
+Img_24_1_5.jpg Img_41_2_3.jpg        0.397396           No Match
+Img_24_1_5.jpg Img_44_1_5.jpg        0.392188           No Match
+Img_24_1_5.jpg Img_44_2_2.jpg        0.392708           No Match
+Img_24_1_5.jpg Img_45_1_5.jpg        0.395833           No Match
+Img_24_1_5.jpg Img_45_2_5.jpg        0.405729           No Match
+Img_24_1_5.jpg Img_46_1_5.jpg        0.400521           No Match
+Img_24_1_5.jpg Img_46_2_4.jpg        0.406771           No Match
+Img_24_1_5.jpg Img_5_1_5.jpg        0.384375           No Match
+Img_24_1_5.jpg Img_5_2_3.jpg        0.386458           No Match
+Img_24_1_5.jpg Img_6_1_1.jpg        0.385937           No Match
+Img_24_1_5.jpg Img_6_2_5.jpg        0.379167           No Match
+Img_24_1_5.jpg Img_8_1_1.jpg        0.387500           No Match
+Img_24_1_5.jpg Img_8_2_1.jpg        0.400521           No Match
+Img_24_2_3.jpg Img_27_1_5.jpg        0.389583           No Match
+Img_24_2_3.jpg Img_27_2_3.jpg        0.370312           No Match
+Img_24_2_3.jpg Img_2_1_1.jpg        0.390104           No Match
+Img_24_2_3.jpg Img_2_2_2.jpg        0.395313           No Match
+Img_24_2_3.jpg Img_32_1_5.jpg        0.392708           No Match
+Img_24_2_3.jpg Img_32_2_4.jpg        0.381771           No Match
+Img_24_2_3.jpg Img_39_1_2.jpg        0.414583           No Match
+Img_24_2_3.jpg Img_39_2_2.jpg        0.377083           No Match
+Img_24_2_3.jpg Img_3_1_5.jpg        0.376042           No Match
+Img_24_2_3.jpg Img_3_2_3.jpg        0.373958           No Match
+Img_24_2_3.jpg Img_41_1_5.jpg        0.378125           No Match
+Img_24_2_3.jpg Img_41_2_3.jpg        0.371875           No Match
+Img_24_2_3.jpg Img_44_1_5.jpg        0.385417           No Match
+Img_24_2_3.jpg Img_44_2_2.jpg        0.382813           No Match
+Img_24_2_3.jpg Img_45_1_5.jpg        0.389062           No Match
+Img_24_2_3.jpg Img_45_2_5.jpg        0.385417           No Match
+Img_24_2_3.jpg Img_46_1_5.jpg        0.397917           No Match
+Img_24_2_3.jpg Img_46_2_4.jpg        0.388542           No Match
+Img_24_2_3.jpg Img_5_1_5.jpg        0.375521           No Match
+Img_24_2_3.jpg Img_5_2_3.jpg        0.392188           No Match
+Img_24_2_3.jpg Img_6_1_1.jpg        0.373958           No Match
+Img_24_2_3.jpg Img_6_2_5.jpg        0.363021           No Match
+Img_24_2_3.jpg Img_8_1_1.jpg        0.369271           No Match
+Img_24_2_3.jpg Img_8_2_1.jpg        0.375000           No Match
+Img_27_1_5.jpg Img_27_2_3.jpg        0.394271           No Match
+Img_27_1_5.jpg Img_2_1_1.jpg        0.407813           No Match
+Img_27_1_5.jpg Img_2_2_2.jpg        0.402604           No Match
+Img_27_1_5.jpg Img_32_1_5.jpg        0.383333           No Match
+Img_27_1_5.jpg Img_32_2_4.jpg        0.391146           No Match
+Img_27_1_5.jpg Img_39_1_2.jpg        0.418750           No Match
+Img_27_1_5.jpg Img_39_2_2.jpg        0.418750           No Match
+Img_27_1_5.jpg Img_3_1_5.jpg        0.353125           No Match
+Img_27_1_5.jpg Img_3_2_3.jpg        0.360417           No Match
+Img_27_1_5.jpg Img_41_1_5.jpg        0.376042           No Match
+Img_27_1_5.jpg Img_41_2_3.jpg        0.375000           No Match
+Img_27_1_5.jpg Img_44_1_5.jpg        0.375000           No Match
+Img_27_1_5.jpg Img_44_2_2.jpg        0.382813           No Match
+Img_27_1_5.jpg Img_45_1_5.jpg        0.393229           No Match
+Img_27_1_5.jpg Img_45_2_5.jpg        0.384375           No Match
+Img_27_1_5.jpg Img_46_1_5.jpg        0.383333           No Match
+Img_27_1_5.jpg Img_46_2_4.jpg        0.379167           No Match
+Img_27_1_5.jpg Img_5_1_5.jpg        0.377604           No Match
+Img_27_1_5.jpg Img_5_2_3.jpg        0.375521           No Match
+Img_27_1_5.jpg Img_6_1_1.jpg        0.379167           No Match
+Img_27_1_5.jpg Img_6_2_5.jpg        0.378646           No Match
+Img_27_1_5.jpg Img_8_1_1.jpg        0.368229           No Match
+Img_27_1_5.jpg Img_8_2_1.jpg        0.367708           No Match
+Img_27_2_3.jpg Img_2_1_1.jpg        0.401042           No Match
+Img_27_2_3.jpg Img_2_2_2.jpg        0.405208           No Match
+Img_27_2_3.jpg Img_32_1_5.jpg        0.404687           No Match
+Img_27_2_3.jpg Img_32_2_4.jpg        0.395833           No Match
+Img_27_2_3.jpg Img_39_1_2.jpg        0.409896           No Match
+Img_27_2_3.jpg Img_39_2_2.jpg        0.394271           No Match
+Img_27_2_3.jpg Img_3_1_5.jpg        0.370312           No Match
+Img_27_2_3.jpg Img_3_2_3.jpg        0.383854           No Match
+Img_27_2_3.jpg Img_41_1_5.jpg        0.372396           No Match
+Img_27_2_3.jpg Img_41_2_3.jpg        0.363021           No Match
+Img_27_2_3.jpg Img_44_1_5.jpg        0.389062           No Match
+Img_27_2_3.jpg Img_44_2_2.jpg        0.393750           No Match
+Img_27_2_3.jpg Img_45_1_5.jpg        0.388542           No Match
+Img_27_2_3.jpg Img_45_2_5.jpg        0.383854           No Match
+Img_27_2_3.jpg Img_46_1_5.jpg        0.393229           No Match
+Img_27_2_3.jpg Img_46_2_4.jpg        0.397396           No Match
+Img_27_2_3.jpg Img_5_1_5.jpg        0.398958           No Match
+Img_27_2_3.jpg Img_5_2_3.jpg        0.397917           No Match
+Img_27_2_3.jpg Img_6_1_1.jpg        0.377604           No Match
+Img_27_2_3.jpg Img_6_2_5.jpg        0.392708           No Match
+Img_27_2_3.jpg Img_8_1_1.jpg        0.388542           No Match
+Img_27_2_3.jpg Img_8_2_1.jpg        0.386979           No Match
+Img_2_1_1.jpg Img_2_2_2.jpg        0.322917              Match
+Img_2_1_1.jpg Img_32_1_5.jpg        0.407813           No Match
+Img_2_1_1.jpg Img_32_2_4.jpg        0.402083           No Match
+Img_2_1_1.jpg Img_39_1_2.jpg        0.422396           No Match
+Img_2_1_1.jpg Img_39_2_2.jpg        0.426563           No Match
+Img_2_1_1.jpg Img_3_1_5.jpg        0.377604           No Match
+Img_2_1_1.jpg Img_3_2_3.jpg        0.380729           No Match
+Img_2_1_1.jpg Img_41_1_5.jpg        0.388021           No Match
+Img_2_1_1.jpg Img_41_2_3.jpg        0.383854           No Match
+Img_2_1_1.jpg Img_44_1_5.jpg        0.399479           No Match
+Img_2_1_1.jpg Img_44_2_2.jpg        0.382292           No Match
+Img_2_1_1.jpg Img_45_1_5.jpg        0.391667           No Match
+Img_2_1_1.jpg Img_45_2_5.jpg        0.397396           No Match
+Img_2_1_1.jpg Img_46_1_5.jpg        0.394271           No Match
+Img_2_1_1.jpg Img_46_2_4.jpg        0.386979           No Match
+Img_2_1_1.jpg Img_5_1_5.jpg        0.378125           No Match
+Img_2_1_1.jpg Img_5_2_3.jpg        0.380208           No Match
+Img_2_1_1.jpg Img_6_1_1.jpg        0.384896           No Match
+Img_2_1_1.jpg Img_6_2_5.jpg        0.377083           No Match
+Img_2_1_1.jpg Img_8_1_1.jpg        0.387500           No Match
+Img_2_1_1.jpg Img_8_2_1.jpg        0.399479           No Match
+Img_2_2_2.jpg Img_32_1_5.jpg        0.404687           No Match
+Img_2_2_2.jpg Img_32_2_4.jpg        0.389583           No Match
+Img_2_2_2.jpg Img_39_1_2.jpg        0.396354           No Match
+Img_2_2_2.jpg Img_39_2_2.jpg        0.413021           No Match
+Img_2_2_2.jpg Img_3_1_5.jpg        0.371354           No Match
+Img_2_2_2.jpg Img_3_2_3.jpg        0.373437           No Match
+Img_2_2_2.jpg Img_41_1_5.jpg        0.385937           No Match
+Img_2_2_2.jpg Img_41_2_3.jpg        0.376563           No Match
+Img_2_2_2.jpg Img_44_1_5.jpg        0.381771           No Match
+Img_2_2_2.jpg Img_44_2_2.jpg        0.367708           No Match
+Img_2_2_2.jpg Img_45_1_5.jpg        0.385417           No Match
+Img_2_2_2.jpg Img_45_2_5.jpg        0.385937           No Match
+Img_2_2_2.jpg Img_46_1_5.jpg        0.375521           No Match
+Img_2_2_2.jpg Img_46_2_4.jpg        0.388021           No Match
+Img_2_2_2.jpg Img_5_1_5.jpg        0.372917           No Match
+Img_2_2_2.jpg Img_5_2_3.jpg        0.386458           No Match
+Img_2_2_2.jpg Img_6_1_1.jpg        0.369271           No Match
+Img_2_2_2.jpg Img_6_2_5.jpg        0.377083           No Match
+Img_2_2_2.jpg Img_8_1_1.jpg        0.380208           No Match
+Img_2_2_2.jpg Img_8_2_1.jpg        0.391146           No Match
+Img_32_1_5.jpg Img_32_2_4.jpg        0.389062           No Match
+Img_32_1_5.jpg Img_39_1_2.jpg        0.408333           No Match
+Img_32_1_5.jpg Img_39_2_2.jpg        0.404167           No Match
+Img_32_1_5.jpg Img_3_1_5.jpg        0.398958           No Match
+Img_32_1_5.jpg Img_3_2_3.jpg        0.395833           No Match
+Img_32_1_5.jpg Img_41_1_5.jpg        0.388542           No Match
+Img_32_1_5.jpg Img_41_2_3.jpg        0.385417           No Match
+Img_32_1_5.jpg Img_44_1_5.jpg        0.385417           No Match
+Img_32_1_5.jpg Img_44_2_2.jpg        0.380729           No Match
+Img_32_1_5.jpg Img_45_1_5.jpg        0.399479           No Match
+Img_32_1_5.jpg Img_45_2_5.jpg        0.388542           No Match
+Img_32_1_5.jpg Img_46_1_5.jpg        0.397917           No Match
+Img_32_1_5.jpg Img_46_2_4.jpg        0.406250           No Match
+Img_32_1_5.jpg Img_5_1_5.jpg        0.390104           No Match
+Img_32_1_5.jpg Img_5_2_3.jpg        0.396354           No Match
+Img_32_1_5.jpg Img_6_1_1.jpg        0.401042           No Match
+Img_32_1_5.jpg Img_6_2_5.jpg        0.397396           No Match
+Img_32_1_5.jpg Img_8_1_1.jpg        0.388021           No Match
+Img_32_1_5.jpg Img_8_2_1.jpg        0.380208           No Match
+Img_32_2_4.jpg Img_39_1_2.jpg        0.400521           No Match
+Img_32_2_4.jpg Img_39_2_2.jpg        0.408854           No Match
+Img_32_2_4.jpg Img_3_1_5.jpg        0.393229           No Match
+Img_32_2_4.jpg Img_3_2_3.jpg        0.390104           No Match
+Img_32_2_4.jpg Img_41_1_5.jpg        0.388021           No Match
+Img_32_2_4.jpg Img_41_2_3.jpg        0.359896           No Match
+Img_32_2_4.jpg Img_44_1_5.jpg        0.396354           No Match
+Img_32_2_4.jpg Img_44_2_2.jpg        0.382292           No Match
+Img_32_2_4.jpg Img_45_1_5.jpg        0.384375           No Match
+Img_32_2_4.jpg Img_45_2_5.jpg        0.396354           No Match
+Img_32_2_4.jpg Img_46_1_5.jpg        0.391146           No Match
+Img_32_2_4.jpg Img_46_2_4.jpg        0.395313           No Match
+Img_32_2_4.jpg Img_5_1_5.jpg        0.395833           No Match
+Img_32_2_4.jpg Img_5_2_3.jpg        0.386458           No Match
+Img_32_2_4.jpg Img_6_1_1.jpg        0.373437           No Match
+Img_32_2_4.jpg Img_6_2_5.jpg        0.389583           No Match
+Img_32_2_4.jpg Img_8_1_1.jpg        0.375000           No Match
+Img_32_2_4.jpg Img_8_2_1.jpg        0.354687           No Match
+Img_39_1_2.jpg Img_39_2_2.jpg        0.426042           No Match
+Img_39_1_2.jpg Img_3_1_5.jpg        0.416667           No Match
+Img_39_1_2.jpg Img_3_2_3.jpg        0.422917           No Match
+Img_39_1_2.jpg Img_41_1_5.jpg        0.413542           No Match
+Img_39_1_2.jpg Img_41_2_3.jpg        0.426042           No Match
+Img_39_1_2.jpg Img_44_1_5.jpg        0.414583           No Match
+Img_39_1_2.jpg Img_44_2_2.jpg        0.413021           No Match
+Img_39_1_2.jpg Img_45_1_5.jpg        0.414063           No Match
+Img_39_1_2.jpg Img_45_2_5.jpg        0.414583           No Match
+Img_39_1_2.jpg Img_46_1_5.jpg        0.404167           No Match
+Img_39_1_2.jpg Img_46_2_4.jpg        0.413542           No Match
+Img_39_1_2.jpg Img_5_1_5.jpg        0.397396           No Match
+Img_39_1_2.jpg Img_5_2_3.jpg        0.407813           No Match
+Img_39_1_2.jpg Img_6_1_1.jpg        0.410417           No Match
+Img_39_1_2.jpg Img_6_2_5.jpg        0.409896           No Match
+Img_39_1_2.jpg Img_8_1_1.jpg        0.417187           No Match
+Img_39_1_2.jpg Img_8_2_1.jpg        0.415625           No Match
+Img_39_2_2.jpg Img_3_1_5.jpg        0.408333           No Match
+Img_39_2_2.jpg Img_3_2_3.jpg        0.389583           No Match
+Img_39_2_2.jpg Img_41_1_5.jpg        0.397917           No Match
+Img_39_2_2.jpg Img_41_2_3.jpg        0.410417           No Match
+Img_39_2_2.jpg Img_44_1_5.jpg        0.403125           No Match
+Img_39_2_2.jpg Img_44_2_2.jpg        0.398438           No Match
+Img_39_2_2.jpg Img_45_1_5.jpg        0.399479           No Match
+Img_39_2_2.jpg Img_45_2_5.jpg        0.406250           No Match
+Img_39_2_2.jpg Img_46_1_5.jpg        0.404167           No Match
+Img_39_2_2.jpg Img_46_2_4.jpg        0.406250           No Match
+Img_39_2_2.jpg Img_5_1_5.jpg        0.414063           No Match
+Img_39_2_2.jpg Img_5_2_3.jpg        0.404687           No Match
+Img_39_2_2.jpg Img_6_1_1.jpg        0.400000           No Match
+Img_39_2_2.jpg Img_6_2_5.jpg        0.406771           No Match
+Img_39_2_2.jpg Img_8_1_1.jpg        0.407813           No Match
+Img_39_2_2.jpg Img_8_2_1.jpg        0.400000           No Match
+Img_3_1_5.jpg Img_3_2_3.jpg        0.227083              Match
+Img_3_1_5.jpg Img_41_1_5.jpg        0.332292           No Match
+Img_3_1_5.jpg Img_41_2_3.jpg        0.335417           No Match
+Img_3_1_5.jpg Img_44_1_5.jpg        0.328125              Match
+Img_3_1_5.jpg Img_44_2_2.jpg        0.344271           No Match
+Img_3_1_5.jpg Img_45_1_5.jpg        0.370312           No Match
+Img_3_1_5.jpg Img_45_2_5.jpg        0.372917           No Match
+Img_3_1_5.jpg Img_46_1_5.jpg        0.367708           No Match
+Img_3_1_5.jpg Img_46_2_4.jpg        0.348958           No Match
+Img_3_1_5.jpg Img_5_1_5.jpg        0.334896           No Match
+Img_3_1_5.jpg Img_5_2_3.jpg        0.349479           No Match
+Img_3_1_5.jpg Img_6_1_1.jpg        0.351042           No Match
+Img_3_1_5.jpg Img_6_2_5.jpg        0.345313           No Match
+Img_3_1_5.jpg Img_8_1_1.jpg        0.333854           No Match
+Img_3_1_5.jpg Img_8_2_1.jpg        0.332292           No Match
+Img_3_2_3.jpg Img_41_1_5.jpg        0.339583           No Match
+Img_3_2_3.jpg Img_41_2_3.jpg        0.333333           No Match
+Img_3_2_3.jpg Img_44_1_5.jpg        0.340625           No Match
+Img_3_2_3.jpg Img_44_2_2.jpg        0.356771           No Match
+Img_3_2_3.jpg Img_45_1_5.jpg        0.371354           No Match
+Img_3_2_3.jpg Img_45_2_5.jpg        0.373958           No Match
+Img_3_2_3.jpg Img_46_1_5.jpg        0.367708           No Match
+Img_3_2_3.jpg Img_46_2_4.jpg        0.363542           No Match
+Img_3_2_3.jpg Img_5_1_5.jpg        0.334896           No Match
+Img_3_2_3.jpg Img_5_2_3.jpg        0.349479           No Match
+Img_3_2_3.jpg Img_6_1_1.jpg        0.343750           No Match
+Img_3_2_3.jpg Img_6_2_5.jpg        0.347396           No Match
+Img_3_2_3.jpg Img_8_1_1.jpg        0.350521           No Match
+Img_3_2_3.jpg Img_8_2_1.jpg        0.329167              Match
+Img_41_1_5.jpg Img_41_2_3.jpg        0.304167              Match
+Img_41_1_5.jpg Img_44_1_5.jpg        0.356250           No Match
+Img_41_1_5.jpg Img_44_2_2.jpg        0.365104           No Match
+Img_41_1_5.jpg Img_45_1_5.jpg        0.369271           No Match
+Img_41_1_5.jpg Img_45_2_5.jpg        0.379167           No Match
+Img_41_1_5.jpg Img_46_1_5.jpg        0.368750           No Match
+Img_41_1_5.jpg Img_46_2_4.jpg        0.360417           No Match
+Img_41_1_5.jpg Img_5_1_5.jpg        0.356771           No Match
+Img_41_1_5.jpg Img_5_2_3.jpg        0.369271           No Match
+Img_41_1_5.jpg Img_6_1_1.jpg        0.346875           No Match
+Img_41_1_5.jpg Img_6_2_5.jpg        0.356771           No Match
+Img_41_1_5.jpg Img_8_1_1.jpg        0.353646           No Match
+Img_41_1_5.jpg Img_8_2_1.jpg        0.342708           No Match
+Img_41_2_3.jpg Img_44_1_5.jpg        0.339583           No Match
+Img_41_2_3.jpg Img_44_2_2.jpg        0.365104           No Match
+Img_41_2_3.jpg Img_45_1_5.jpg        0.352604           No Match
+Img_41_2_3.jpg Img_45_2_5.jpg        0.348958           No Match
+Img_41_2_3.jpg Img_46_1_5.jpg        0.371875           No Match
+Img_41_2_3.jpg Img_46_2_4.jpg        0.361458           No Match
+Img_41_2_3.jpg Img_5_1_5.jpg        0.365104           No Match
+Img_41_2_3.jpg Img_5_2_3.jpg        0.367188           No Match
+Img_41_2_3.jpg Img_6_1_1.jpg        0.341667           No Match
+Img_41_2_3.jpg Img_6_2_5.jpg        0.352604           No Match
+Img_41_2_3.jpg Img_8_1_1.jpg        0.360938           No Match
+Img_41_2_3.jpg Img_8_2_1.jpg        0.338542           No Match
+Img_44_1_5.jpg Img_44_2_2.jpg        0.315104              Match
+Img_44_1_5.jpg Img_45_1_5.jpg        0.390104           No Match
+Img_44_1_5.jpg Img_45_2_5.jpg        0.396875           No Match
+Img_44_1_5.jpg Img_46_1_5.jpg        0.385417           No Match
+Img_44_1_5.jpg Img_46_2_4.jpg        0.366667           No Match
+Img_44_1_5.jpg Img_5_1_5.jpg        0.372396           No Match
+Img_44_1_5.jpg Img_5_2_3.jpg        0.376563           No Match
+Img_44_1_5.jpg Img_6_1_1.jpg        0.360417           No Match
+Img_44_1_5.jpg Img_6_2_5.jpg        0.371354           No Match
+Img_44_1_5.jpg Img_8_1_1.jpg        0.356771           No Match
+Img_44_1_5.jpg Img_8_2_1.jpg        0.357292           No Match
+Img_44_2_2.jpg Img_45_1_5.jpg        0.393750           No Match
+Img_44_2_2.jpg Img_45_2_5.jpg        0.384896           No Match
+Img_44_2_2.jpg Img_46_1_5.jpg        0.389062           No Match
+Img_44_2_2.jpg Img_46_2_4.jpg        0.370312           No Match
+Img_44_2_2.jpg Img_5_1_5.jpg        0.354167           No Match
+Img_44_2_2.jpg Img_5_2_3.jpg        0.363542           No Match
+Img_44_2_2.jpg Img_6_1_1.jpg        0.361979           No Match
+Img_44_2_2.jpg Img_6_2_5.jpg        0.361458           No Match
+Img_44_2_2.jpg Img_8_1_1.jpg        0.364583           No Match
+Img_44_2_2.jpg Img_8_2_1.jpg        0.354687           No Match
+Img_45_1_5.jpg Img_45_2_5.jpg        0.331771           No Match
+Img_45_1_5.jpg Img_46_1_5.jpg        0.370312           No Match
+Img_45_1_5.jpg Img_46_2_4.jpg        0.378646           No Match
+Img_45_1_5.jpg Img_5_1_5.jpg        0.390625           No Match
+Img_45_1_5.jpg Img_5_2_3.jpg        0.388542           No Match
+Img_45_1_5.jpg Img_6_1_1.jpg        0.364063           No Match
+Img_45_1_5.jpg Img_6_2_5.jpg        0.375000           No Match
+Img_45_1_5.jpg Img_8_1_1.jpg        0.383333           No Match
+Img_45_1_5.jpg Img_8_2_1.jpg        0.376563           No Match
+Img_45_2_5.jpg Img_46_1_5.jpg        0.387500           No Match
+Img_45_2_5.jpg Img_46_2_4.jpg        0.378125           No Match
+Img_45_2_5.jpg Img_5_1_5.jpg        0.385937           No Match
+Img_45_2_5.jpg Img_5_2_3.jpg        0.391146           No Match
+Img_45_2_5.jpg Img_6_1_1.jpg        0.368750           No Match
+Img_45_2_5.jpg Img_6_2_5.jpg        0.370312           No Match
+Img_45_2_5.jpg Img_8_1_1.jpg        0.367188           No Match
+Img_45_2_5.jpg Img_8_2_1.jpg        0.379167           No Match
+Img_46_1_5.jpg Img_46_2_4.jpg        0.360417           No Match
+Img_46_1_5.jpg Img_5_1_5.jpg        0.385937           No Match
+Img_46_1_5.jpg Img_5_2_3.jpg        0.383854           No Match
+Img_46_1_5.jpg Img_6_1_1.jpg        0.344792           No Match
+Img_46_1_5.jpg Img_6_2_5.jpg        0.364063           No Match
+Img_46_1_5.jpg Img_8_1_1.jpg        0.374479           No Match
+Img_46_1_5.jpg Img_8_2_1.jpg        0.363542           No Match
+Img_46_2_4.jpg Img_5_1_5.jpg        0.375521           No Match
+Img_46_2_4.jpg Img_5_2_3.jpg        0.377604           No Match
+Img_46_2_4.jpg Img_6_1_1.jpg        0.377083           No Match
+Img_46_2_4.jpg Img_6_2_5.jpg        0.372396           No Match
+Img_46_2_4.jpg Img_8_1_1.jpg        0.377604           No Match
+Img_46_2_4.jpg Img_8_2_1.jpg        0.365625           No Match
+Img_5_1_5.jpg Img_5_2_3.jpg        0.326042              Match
+Img_5_1_5.jpg Img_6_1_1.jpg        0.368229           No Match
+Img_5_1_5.jpg Img_6_2_5.jpg        0.375000           No Match
+Img_5_1_5.jpg Img_8_1_1.jpg        0.357292           No Match
+Img_5_1_5.jpg Img_8_2_1.jpg        0.367188           No Match
+Img_5_2_3.jpg Img_6_1_1.jpg        0.358854           No Match
+Img_5_2_3.jpg Img_6_2_5.jpg        0.375000           No Match
+Img_5_2_3.jpg Img_8_1_1.jpg        0.352083           No Match
+Img_5_2_3.jpg Img_8_2_1.jpg        0.359896           No Match
+Img_6_1_1.jpg Img_6_2_5.jpg        0.320313              Match
+Img_6_1_1.jpg Img_8_1_1.jpg        0.361979           No Match
+Img_6_1_1.jpg Img_8_2_1.jpg        0.355208           No Match
+Img_6_2_5.jpg Img_8_1_1.jpg        0.377083           No Match
+Img_6_2_5.jpg Img_8_2_1.jpg        0.363021           No Match
+Img_8_1_1.jpg Img_8_2_1.jpg        0.271354              Match
+---------------------------------------------------------------------------
+  Img1         Img2                 HD                   Status
+Img_16_1_5.jpg Img_16_2_1.jpg        0.336458              Match
+Img_16_1_5.jpg Img_19_1_5.jpg        0.406771           No Match
+Img_16_1_5.jpg Img_19_2_4.jpg        0.407813           No Match
+Img_16_1_5.jpg Img_1_1_5.jpg        0.425000           No Match
+Img_16_1_5.jpg Img_1_2_4.jpg        0.407813           No Match
+Img_16_1_5.jpg Img_22_1_5.jpg        0.414063           No Match
+Img_16_1_5.jpg Img_22_2_2.jpg        0.401042           No Match
+Img_16_1_5.jpg Img_24_1_5.jpg        0.404687           No Match
+Img_16_1_5.jpg Img_24_2_3.jpg        0.401042           No Match
+Img_16_1_5.jpg Img_27_1_5.jpg        0.394792           No Match
+Img_16_1_5.jpg Img_27_2_3.jpg        0.403646           No Match
+Img_16_1_5.jpg Img_2_1_1.jpg        0.369271           No Match
+Img_16_1_5.jpg Img_2_2_2.jpg        0.397396           No Match
+Img_16_1_5.jpg Img_32_1_5.jpg        0.398958           No Match
+Img_16_1_5.jpg Img_32_2_4.jpg        0.392188           No Match
+Img_16_1_5.jpg Img_39_1_2.jpg        0.416667           No Match
+Img_16_1_5.jpg Img_39_2_2.jpg        0.415625           No Match
+Img_16_1_5.jpg Img_3_1_5.jpg        0.407292           No Match
+Img_16_1_5.jpg Img_3_2_3.jpg        0.408333           No Match
+Img_16_1_5.jpg Img_41_1_5.jpg        0.400000           No Match
+Img_16_1_5.jpg Img_41_2_3.jpg        0.408333           No Match
+Img_16_1_5.jpg Img_44_1_5.jpg        0.405208           No Match
+Img_16_1_5.jpg Img_44_2_2.jpg        0.409896           No Match
+Img_16_1_5.jpg Img_45_1_5.jpg        0.400521           No Match
+Img_16_1_5.jpg Img_45_2_5.jpg        0.397917           No Match
+Img_16_1_5.jpg Img_46_1_5.jpg        0.398958           No Match
+Img_16_1_5.jpg Img_46_2_4.jpg        0.398958           No Match
+Img_16_1_5.jpg Img_5_1_5.jpg        0.403646           No Match
+Img_16_1_5.jpg Img_5_2_3.jpg        0.403646           No Match
+Img_16_1_5.jpg Img_6_1_1.jpg        0.392708           No Match
+Img_16_1_5.jpg Img_6_2_5.jpg        0.405729           No Match
+Img_16_1_5.jpg Img_8_1_1.jpg        0.419271           No Match
+Img_16_1_5.jpg Img_8_2_1.jpg        0.397917           No Match
+Img_16_2_1.jpg Img_19_1_5.jpg        0.393229           No Match
+Img_16_2_1.jpg Img_19_2_4.jpg        0.383854           No Match
+Img_16_2_1.jpg Img_1_1_5.jpg        0.410417           No Match
+Img_16_2_1.jpg Img_1_2_4.jpg        0.377604           No Match
+Img_16_2_1.jpg Img_22_1_5.jpg        0.389062           No Match
+Img_16_2_1.jpg Img_22_2_2.jpg        0.395833           No Match
+Img_16_2_1.jpg Img_24_1_5.jpg        0.401562           No Match
+Img_16_2_1.jpg Img_24_2_3.jpg        0.379167           No Match
+Img_16_2_1.jpg Img_27_1_5.jpg        0.402083           No Match
+Img_16_2_1.jpg Img_27_2_3.jpg        0.397396           No Match
+Img_16_2_1.jpg Img_2_1_1.jpg        0.378646           No Match
+Img_16_2_1.jpg Img_2_2_2.jpg        0.383854           No Match
+Img_16_2_1.jpg Img_32_1_5.jpg        0.375000           No Match
+Img_16_2_1.jpg Img_32_2_4.jpg        0.386979           No Match
+Img_16_2_1.jpg Img_39_1_2.jpg        0.420833           No Match
+Img_16_2_1.jpg Img_39_2_2.jpg        0.412500           No Match
+Img_16_2_1.jpg Img_3_1_5.jpg        0.367708           No Match
+Img_16_2_1.jpg Img_3_2_3.jpg        0.380208           No Match
+Img_16_2_1.jpg Img_41_1_5.jpg        0.387500           No Match
+Img_16_2_1.jpg Img_41_2_3.jpg        0.393750           No Match
+Img_16_2_1.jpg Img_44_1_5.jpg        0.408333           No Match
+Img_16_2_1.jpg Img_44_2_2.jpg        0.389062           No Match
+Img_16_2_1.jpg Img_45_1_5.jpg        0.399479           No Match
+Img_16_2_1.jpg Img_45_2_5.jpg        0.391667           No Match
+Img_16_2_1.jpg Img_46_1_5.jpg        0.383333           No Match
+Img_16_2_1.jpg Img_46_2_4.jpg        0.391667           No Match
+Img_16_2_1.jpg Img_5_1_5.jpg        0.380729           No Match
+Img_16_2_1.jpg Img_5_2_3.jpg        0.373437           No Match
+Img_16_2_1.jpg Img_6_1_1.jpg        0.392708           No Match
+Img_16_2_1.jpg Img_6_2_5.jpg        0.382813           No Match
+Img_16_2_1.jpg Img_8_1_1.jpg        0.390104           No Match
+Img_16_2_1.jpg Img_8_2_1.jpg        0.377083           No Match
+Img_19_1_5.jpg Img_19_2_4.jpg        0.281250              Match
+Img_19_1_5.jpg Img_1_1_5.jpg        0.382813           No Match
+Img_19_1_5.jpg Img_1_2_4.jpg        0.361458           No Match
+Img_19_1_5.jpg Img_22_1_5.jpg        0.385417           No Match
+Img_19_1_5.jpg Img_22_2_2.jpg        0.384896           No Match
+Img_19_1_5.jpg Img_24_1_5.jpg        0.397917           No Match
+Img_19_1_5.jpg Img_24_2_3.jpg        0.379688           No Match
+Img_19_1_5.jpg Img_27_1_5.jpg        0.392188           No Match
+Img_19_1_5.jpg Img_27_2_3.jpg        0.401042           No Match
+Img_19_1_5.jpg Img_2_1_1.jpg        0.392708           No Match
+Img_19_1_5.jpg Img_2_2_2.jpg        0.397917           No Match
+Img_19_1_5.jpg Img_32_1_5.jpg        0.381771           No Match
+Img_19_1_5.jpg Img_32_2_4.jpg        0.389583           No Match
+Img_19_1_5.jpg Img_39_1_2.jpg        0.413021           No Match
+Img_19_1_5.jpg Img_39_2_2.jpg        0.421354           No Match
+Img_19_1_5.jpg Img_3_1_5.jpg        0.361979           No Match
+Img_19_1_5.jpg Img_3_2_3.jpg        0.359896              Match
+Img_19_1_5.jpg Img_41_1_5.jpg        0.361979           No Match
+Img_19_1_5.jpg Img_41_2_3.jpg        0.358854              Match
+Img_19_1_5.jpg Img_44_1_5.jpg        0.382813           No Match
+Img_19_1_5.jpg Img_44_2_2.jpg        0.376042           No Match
+Img_19_1_5.jpg Img_45_1_5.jpg        0.388542           No Match
+Img_19_1_5.jpg Img_45_2_5.jpg        0.394271           No Match
+Img_19_1_5.jpg Img_46_1_5.jpg        0.385937           No Match
+Img_19_1_5.jpg Img_46_2_4.jpg        0.388021           No Match
+Img_19_1_5.jpg Img_5_1_5.jpg        0.379167           No Match
+Img_19_1_5.jpg Img_5_2_3.jpg        0.388542           No Match
+Img_19_1_5.jpg Img_6_1_1.jpg        0.367188           No Match
+Img_19_1_5.jpg Img_6_2_5.jpg        0.361458           No Match
+Img_19_1_5.jpg Img_8_1_1.jpg        0.366667           No Match
+Img_19_1_5.jpg Img_8_2_1.jpg        0.353646              Match
+Img_19_2_4.jpg Img_1_1_5.jpg        0.397396           No Match
+Img_19_2_4.jpg Img_1_2_4.jpg        0.390625           No Match
+Img_19_2_4.jpg Img_22_1_5.jpg        0.364583           No Match
+Img_19_2_4.jpg Img_22_2_2.jpg        0.394271           No Match
+Img_19_2_4.jpg Img_24_1_5.jpg        0.390625           No Match
+Img_19_2_4.jpg Img_24_2_3.jpg        0.377604           No Match
+Img_19_2_4.jpg Img_27_1_5.jpg        0.373437           No Match
+Img_19_2_4.jpg Img_27_2_3.jpg        0.380208           No Match
+Img_19_2_4.jpg Img_2_1_1.jpg        0.369792           No Match
+Img_19_2_4.jpg Img_2_2_2.jpg        0.372917           No Match
+Img_19_2_4.jpg Img_32_1_5.jpg        0.386979           No Match
+Img_19_2_4.jpg Img_32_2_4.jpg        0.384375           No Match
+Img_19_2_4.jpg Img_39_1_2.jpg        0.413021           No Match
+Img_19_2_4.jpg Img_39_2_2.jpg        0.405729           No Match
+Img_19_2_4.jpg Img_3_1_5.jpg        0.350521              Match
+Img_19_2_4.jpg Img_3_2_3.jpg        0.355729              Match
+Img_19_2_4.jpg Img_41_1_5.jpg        0.360938           No Match
+Img_19_2_4.jpg Img_41_2_3.jpg        0.355729              Match
+Img_19_2_4.jpg Img_44_1_5.jpg        0.371354           No Match
+Img_19_2_4.jpg Img_44_2_2.jpg        0.369792           No Match
+Img_19_2_4.jpg Img_45_1_5.jpg        0.380208           No Match
+Img_19_2_4.jpg Img_45_2_5.jpg        0.382813           No Match
+Img_19_2_4.jpg Img_46_1_5.jpg        0.360938           No Match
+Img_19_2_4.jpg Img_46_2_4.jpg        0.370312           No Match
+Img_19_2_4.jpg Img_5_1_5.jpg        0.373958           No Match
+Img_19_2_4.jpg Img_5_2_3.jpg        0.358333              Match
+Img_19_2_4.jpg Img_6_1_1.jpg        0.356771              Match
+Img_19_2_4.jpg Img_6_2_5.jpg        0.372917           No Match
+Img_19_2_4.jpg Img_8_1_1.jpg        0.361458           No Match
+Img_19_2_4.jpg Img_8_2_1.jpg        0.350521              Match
+Img_1_1_5.jpg Img_1_2_4.jpg        0.298438              Match
+Img_1_1_5.jpg Img_22_1_5.jpg        0.406771           No Match
+Img_1_1_5.jpg Img_22_2_2.jpg        0.390625           No Match
+Img_1_1_5.jpg Img_24_1_5.jpg        0.392188           No Match
+Img_1_1_5.jpg Img_24_2_3.jpg        0.390625           No Match
+Img_1_1_5.jpg Img_27_1_5.jpg        0.381250           No Match
+Img_1_1_5.jpg Img_27_2_3.jpg        0.391146           No Match
+Img_1_1_5.jpg Img_2_1_1.jpg        0.400521           No Match
+Img_1_1_5.jpg Img_2_2_2.jpg        0.413021           No Match
+Img_1_1_5.jpg Img_32_1_5.jpg        0.398958           No Match
+Img_1_1_5.jpg Img_32_2_4.jpg        0.407813           No Match
+Img_1_1_5.jpg Img_39_1_2.jpg        0.423958           No Match
+Img_1_1_5.jpg Img_39_2_2.jpg        0.396875           No Match
+Img_1_1_5.jpg Img_3_1_5.jpg        0.381250           No Match
+Img_1_1_5.jpg Img_3_2_3.jpg        0.388542           No Match
+Img_1_1_5.jpg Img_41_1_5.jpg        0.392708           No Match
+Img_1_1_5.jpg Img_41_2_3.jpg        0.380208           No Match
+Img_1_1_5.jpg Img_44_1_5.jpg        0.383333           No Match
+Img_1_1_5.jpg Img_44_2_2.jpg        0.401562           No Match
+Img_1_1_5.jpg Img_45_1_5.jpg        0.404687           No Match
+Img_1_1_5.jpg Img_45_2_5.jpg        0.386458           No Match
+Img_1_1_5.jpg Img_46_1_5.jpg        0.388542           No Match
+Img_1_1_5.jpg Img_46_2_4.jpg        0.408333           No Match
+Img_1_1_5.jpg Img_5_1_5.jpg        0.392188           No Match
+Img_1_1_5.jpg Img_5_2_3.jpg        0.395313           No Match
+Img_1_1_5.jpg Img_6_1_1.jpg        0.394792           No Match
+Img_1_1_5.jpg Img_6_2_5.jpg        0.398438           No Match
+Img_1_1_5.jpg Img_8_1_1.jpg        0.384896           No Match
+Img_1_1_5.jpg Img_8_2_1.jpg        0.406250           No Match
+Img_1_2_4.jpg Img_22_1_5.jpg        0.395833           No Match
+Img_1_2_4.jpg Img_22_2_2.jpg        0.393229           No Match
+Img_1_2_4.jpg Img_24_1_5.jpg        0.382292           No Match
+Img_1_2_4.jpg Img_24_2_3.jpg        0.386979           No Match
+Img_1_2_4.jpg Img_27_1_5.jpg        0.371354           No Match
+Img_1_2_4.jpg Img_27_2_3.jpg        0.397917           No Match
+Img_1_2_4.jpg Img_2_1_1.jpg        0.394792           No Match
+Img_1_2_4.jpg Img_2_2_2.jpg        0.405208           No Match
+Img_1_2_4.jpg Img_32_1_5.jpg        0.404687           No Match
+Img_1_2_4.jpg Img_32_2_4.jpg        0.366667           No Match
+Img_1_2_4.jpg Img_39_1_2.jpg        0.414063           No Match
+Img_1_2_4.jpg Img_39_2_2.jpg        0.407813           No Match
+Img_1_2_4.jpg Img_3_1_5.jpg        0.375521           No Match
+Img_1_2_4.jpg Img_3_2_3.jpg        0.380729           No Match
+Img_1_2_4.jpg Img_41_1_5.jpg        0.385937           No Match
+Img_1_2_4.jpg Img_41_2_3.jpg        0.381771           No Match
+Img_1_2_4.jpg Img_44_1_5.jpg        0.377604           No Match
+Img_1_2_4.jpg Img_44_2_2.jpg        0.381250           No Match
+Img_1_2_4.jpg Img_45_1_5.jpg        0.393750           No Match
+Img_1_2_4.jpg Img_45_2_5.jpg        0.391146           No Match
+Img_1_2_4.jpg Img_46_1_5.jpg        0.401562           No Match
+Img_1_2_4.jpg Img_46_2_4.jpg        0.390104           No Match
+Img_1_2_4.jpg Img_5_1_5.jpg        0.365625           No Match
+Img_1_2_4.jpg Img_5_2_3.jpg        0.395833           No Match
+Img_1_2_4.jpg Img_6_1_1.jpg        0.386979           No Match
+Img_1_2_4.jpg Img_6_2_5.jpg        0.379167           No Match
+Img_1_2_4.jpg Img_8_1_1.jpg        0.381250           No Match
+Img_1_2_4.jpg Img_8_2_1.jpg        0.388021           No Match
+Img_22_1_5.jpg Img_22_2_2.jpg        0.392188           No Match
+Img_22_1_5.jpg Img_24_1_5.jpg        0.378125           No Match
+Img_22_1_5.jpg Img_24_2_3.jpg        0.395313           No Match
+Img_22_1_5.jpg Img_27_1_5.jpg        0.384896           No Match
+Img_22_1_5.jpg Img_27_2_3.jpg        0.396875           No Match
+Img_22_1_5.jpg Img_2_1_1.jpg        0.398958           No Match
+Img_22_1_5.jpg Img_2_2_2.jpg        0.377083           No Match
+Img_22_1_5.jpg Img_32_1_5.jpg        0.380729           No Match
+Img_22_1_5.jpg Img_32_2_4.jpg        0.387500           No Match
+Img_22_1_5.jpg Img_39_1_2.jpg        0.419271           No Match
+Img_22_1_5.jpg Img_39_2_2.jpg        0.407813           No Match
+Img_22_1_5.jpg Img_3_1_5.jpg        0.382813           No Match
+Img_22_1_5.jpg Img_3_2_3.jpg        0.380729           No Match
+Img_22_1_5.jpg Img_41_1_5.jpg        0.388021           No Match
+Img_22_1_5.jpg Img_41_2_3.jpg        0.389062           No Match
+Img_22_1_5.jpg Img_44_1_5.jpg        0.379688           No Match
+Img_22_1_5.jpg Img_44_2_2.jpg        0.395833           No Match
+Img_22_1_5.jpg Img_45_1_5.jpg        0.378125           No Match
+Img_22_1_5.jpg Img_45_2_5.jpg        0.379688           No Match
+Img_22_1_5.jpg Img_46_1_5.jpg        0.383854           No Match
+Img_22_1_5.jpg Img_46_2_4.jpg        0.399479           No Match
+Img_22_1_5.jpg Img_5_1_5.jpg        0.370833           No Match
+Img_22_1_5.jpg Img_5_2_3.jpg        0.383333           No Match
+Img_22_1_5.jpg Img_6_1_1.jpg        0.383854           No Match
+Img_22_1_5.jpg Img_6_2_5.jpg        0.385417           No Match
+Img_22_1_5.jpg Img_8_1_1.jpg        0.391667           No Match
+Img_22_1_5.jpg Img_8_2_1.jpg        0.388021           No Match
+Img_22_2_2.jpg Img_24_1_5.jpg        0.405729           No Match
+Img_22_2_2.jpg Img_24_2_3.jpg        0.370833           No Match
+Img_22_2_2.jpg Img_27_1_5.jpg        0.394792           No Match
+Img_22_2_2.jpg Img_27_2_3.jpg        0.368229           No Match
+Img_22_2_2.jpg Img_2_1_1.jpg        0.411979           No Match
+Img_22_2_2.jpg Img_2_2_2.jpg        0.386979           No Match
+Img_22_2_2.jpg Img_32_1_5.jpg        0.394792           No Match
+Img_22_2_2.jpg Img_32_2_4.jpg        0.399479           No Match
+Img_22_2_2.jpg Img_39_1_2.jpg        0.421875           No Match
+Img_22_2_2.jpg Img_39_2_2.jpg        0.393750           No Match
+Img_22_2_2.jpg Img_3_1_5.jpg        0.393750           No Match
+Img_22_2_2.jpg Img_3_2_3.jpg        0.389583           No Match
+Img_22_2_2.jpg Img_41_1_5.jpg        0.384375           No Match
+Img_22_2_2.jpg Img_41_2_3.jpg        0.380208           No Match
+Img_22_2_2.jpg Img_44_1_5.jpg        0.391667           No Match
+Img_22_2_2.jpg Img_44_2_2.jpg        0.398438           No Match
+Img_22_2_2.jpg Img_45_1_5.jpg        0.399479           No Match
+Img_22_2_2.jpg Img_45_2_5.jpg        0.398958           No Match
+Img_22_2_2.jpg Img_46_1_5.jpg        0.387500           No Match
+Img_22_2_2.jpg Img_46_2_4.jpg        0.396875           No Match
+Img_22_2_2.jpg Img_5_1_5.jpg        0.390104           No Match
+Img_22_2_2.jpg Img_5_2_3.jpg        0.391146           No Match
+Img_22_2_2.jpg Img_6_1_1.jpg        0.384375           No Match
+Img_22_2_2.jpg Img_6_2_5.jpg        0.371354           No Match
+Img_22_2_2.jpg Img_8_1_1.jpg        0.394271           No Match
+Img_22_2_2.jpg Img_8_2_1.jpg        0.392708           No Match
+Img_24_1_5.jpg Img_24_2_3.jpg        0.394271           No Match
+Img_24_1_5.jpg Img_27_1_5.jpg        0.393229           No Match
+Img_24_1_5.jpg Img_27_2_3.jpg        0.411458           No Match
+Img_24_1_5.jpg Img_2_1_1.jpg        0.392708           No Match
+Img_24_1_5.jpg Img_2_2_2.jpg        0.389583           No Match
+Img_24_1_5.jpg Img_32_1_5.jpg        0.400521           No Match
+Img_24_1_5.jpg Img_32_2_4.jpg        0.396875           No Match
+Img_24_1_5.jpg Img_39_1_2.jpg        0.410938           No Match
+Img_24_1_5.jpg Img_39_2_2.jpg        0.416146           No Match
+Img_24_1_5.jpg Img_3_1_5.jpg        0.381771           No Match
+Img_24_1_5.jpg Img_3_2_3.jpg        0.385937           No Match
+Img_24_1_5.jpg Img_41_1_5.jpg        0.391146           No Match
+Img_24_1_5.jpg Img_41_2_3.jpg        0.397396           No Match
+Img_24_1_5.jpg Img_44_1_5.jpg        0.392188           No Match
+Img_24_1_5.jpg Img_44_2_2.jpg        0.392708           No Match
+Img_24_1_5.jpg Img_45_1_5.jpg        0.395833           No Match
+Img_24_1_5.jpg Img_45_2_5.jpg        0.405729           No Match
+Img_24_1_5.jpg Img_46_1_5.jpg        0.400521           No Match
+Img_24_1_5.jpg Img_46_2_4.jpg        0.406771           No Match
+Img_24_1_5.jpg Img_5_1_5.jpg        0.384375           No Match
+Img_24_1_5.jpg Img_5_2_3.jpg        0.386458           No Match
+Img_24_1_5.jpg Img_6_1_1.jpg        0.385937           No Match
+Img_24_1_5.jpg Img_6_2_5.jpg        0.379167           No Match
+Img_24_1_5.jpg Img_8_1_1.jpg        0.387500           No Match
+Img_24_1_5.jpg Img_8_2_1.jpg        0.400521           No Match
+Img_24_2_3.jpg Img_27_1_5.jpg        0.389583           No Match
+Img_24_2_3.jpg Img_27_2_3.jpg        0.370312           No Match
+Img_24_2_3.jpg Img_2_1_1.jpg        0.390104           No Match
+Img_24_2_3.jpg Img_2_2_2.jpg        0.395313           No Match
+Img_24_2_3.jpg Img_32_1_5.jpg        0.392708           No Match
+Img_24_2_3.jpg Img_32_2_4.jpg        0.381771           No Match
+Img_24_2_3.jpg Img_39_1_2.jpg        0.414583           No Match
+Img_24_2_3.jpg Img_39_2_2.jpg        0.377083           No Match
+Img_24_2_3.jpg Img_3_1_5.jpg        0.376042           No Match
+Img_24_2_3.jpg Img_3_2_3.jpg        0.373958           No Match
+Img_24_2_3.jpg Img_41_1_5.jpg        0.378125           No Match
+Img_24_2_3.jpg Img_41_2_3.jpg        0.371875           No Match
+Img_24_2_3.jpg Img_44_1_5.jpg        0.385417           No Match
+Img_24_2_3.jpg Img_44_2_2.jpg        0.382813           No Match
+Img_24_2_3.jpg Img_45_1_5.jpg        0.389062           No Match
+Img_24_2_3.jpg Img_45_2_5.jpg        0.385417           No Match
+Img_24_2_3.jpg Img_46_1_5.jpg        0.397917           No Match
+Img_24_2_3.jpg Img_46_2_4.jpg        0.388542           No Match
+Img_24_2_3.jpg Img_5_1_5.jpg        0.375521           No Match
+Img_24_2_3.jpg Img_5_2_3.jpg        0.392188           No Match
+Img_24_2_3.jpg Img_6_1_1.jpg        0.373958           No Match
+Img_24_2_3.jpg Img_6_2_5.jpg        0.363021           No Match
+Img_24_2_3.jpg Img_8_1_1.jpg        0.369271           No Match
+Img_24_2_3.jpg Img_8_2_1.jpg        0.375000           No Match
+Img_27_1_5.jpg Img_27_2_3.jpg        0.394271           No Match
+Img_27_1_5.jpg Img_2_1_1.jpg        0.407813           No Match
+Img_27_1_5.jpg Img_2_2_2.jpg        0.402604           No Match
+Img_27_1_5.jpg Img_32_1_5.jpg        0.383333           No Match
+Img_27_1_5.jpg Img_32_2_4.jpg        0.391146           No Match
+Img_27_1_5.jpg Img_39_1_2.jpg        0.418750           No Match
+Img_27_1_5.jpg Img_39_2_2.jpg        0.418750           No Match
+Img_27_1_5.jpg Img_3_1_5.jpg        0.353125              Match
+Img_27_1_5.jpg Img_3_2_3.jpg        0.360417           No Match
+Img_27_1_5.jpg Img_41_1_5.jpg        0.376042           No Match
+Img_27_1_5.jpg Img_41_2_3.jpg        0.375000           No Match
+Img_27_1_5.jpg Img_44_1_5.jpg        0.375000           No Match
+Img_27_1_5.jpg Img_44_2_2.jpg        0.382813           No Match
+Img_27_1_5.jpg Img_45_1_5.jpg        0.393229           No Match
+Img_27_1_5.jpg Img_45_2_5.jpg        0.384375           No Match
+Img_27_1_5.jpg Img_46_1_5.jpg        0.383333           No Match
+Img_27_1_5.jpg Img_46_2_4.jpg        0.379167           No Match
+Img_27_1_5.jpg Img_5_1_5.jpg        0.377604           No Match
+Img_27_1_5.jpg Img_5_2_3.jpg        0.375521           No Match
+Img_27_1_5.jpg Img_6_1_1.jpg        0.379167           No Match
+Img_27_1_5.jpg Img_6_2_5.jpg        0.378646           No Match
+Img_27_1_5.jpg Img_8_1_1.jpg        0.368229           No Match
+Img_27_1_5.jpg Img_8_2_1.jpg        0.367708           No Match
+Img_27_2_3.jpg Img_2_1_1.jpg        0.401042           No Match
+Img_27_2_3.jpg Img_2_2_2.jpg        0.405208           No Match
+Img_27_2_3.jpg Img_32_1_5.jpg        0.404687           No Match
+Img_27_2_3.jpg Img_32_2_4.jpg        0.395833           No Match
+Img_27_2_3.jpg Img_39_1_2.jpg        0.409896           No Match
+Img_27_2_3.jpg Img_39_2_2.jpg        0.394271           No Match
+Img_27_2_3.jpg Img_3_1_5.jpg        0.370312           No Match
+Img_27_2_3.jpg Img_3_2_3.jpg        0.383854           No Match
+Img_27_2_3.jpg Img_41_1_5.jpg        0.372396           No Match
+Img_27_2_3.jpg Img_41_2_3.jpg        0.363021           No Match
+Img_27_2_3.jpg Img_44_1_5.jpg        0.389062           No Match
+Img_27_2_3.jpg Img_44_2_2.jpg        0.393750           No Match
+Img_27_2_3.jpg Img_45_1_5.jpg        0.388542           No Match
+Img_27_2_3.jpg Img_45_2_5.jpg        0.383854           No Match
+Img_27_2_3.jpg Img_46_1_5.jpg        0.393229           No Match
+Img_27_2_3.jpg Img_46_2_4.jpg        0.397396           No Match
+Img_27_2_3.jpg Img_5_1_5.jpg        0.398958           No Match
+Img_27_2_3.jpg Img_5_2_3.jpg        0.397917           No Match
+Img_27_2_3.jpg Img_6_1_1.jpg        0.377604           No Match
+Img_27_2_3.jpg Img_6_2_5.jpg        0.392708           No Match
+Img_27_2_3.jpg Img_8_1_1.jpg        0.388542           No Match
+Img_27_2_3.jpg Img_8_2_1.jpg        0.386979           No Match
+Img_2_1_1.jpg Img_2_2_2.jpg        0.322917              Match
+Img_2_1_1.jpg Img_32_1_5.jpg        0.407813           No Match
+Img_2_1_1.jpg Img_32_2_4.jpg        0.402083           No Match
+Img_2_1_1.jpg Img_39_1_2.jpg        0.422396           No Match
+Img_2_1_1.jpg Img_39_2_2.jpg        0.426563           No Match
+Img_2_1_1.jpg Img_3_1_5.jpg        0.377604           No Match
+Img_2_1_1.jpg Img_3_2_3.jpg        0.380729           No Match
+Img_2_1_1.jpg Img_41_1_5.jpg        0.388021           No Match
+Img_2_1_1.jpg Img_41_2_3.jpg        0.383854           No Match
+Img_2_1_1.jpg Img_44_1_5.jpg        0.399479           No Match
+Img_2_1_1.jpg Img_44_2_2.jpg        0.382292           No Match
+Img_2_1_1.jpg Img_45_1_5.jpg        0.391667           No Match
+Img_2_1_1.jpg Img_45_2_5.jpg        0.397396           No Match
+Img_2_1_1.jpg Img_46_1_5.jpg        0.394271           No Match
+Img_2_1_1.jpg Img_46_2_4.jpg        0.386979           No Match
+Img_2_1_1.jpg Img_5_1_5.jpg        0.378125           No Match
+Img_2_1_1.jpg Img_5_2_3.jpg        0.380208           No Match
+Img_2_1_1.jpg Img_6_1_1.jpg        0.384896           No Match
+Img_2_1_1.jpg Img_6_2_5.jpg        0.377083           No Match
+Img_2_1_1.jpg Img_8_1_1.jpg        0.387500           No Match
+Img_2_1_1.jpg Img_8_2_1.jpg        0.399479           No Match
+Img_2_2_2.jpg Img_32_1_5.jpg        0.404687           No Match
+Img_2_2_2.jpg Img_32_2_4.jpg        0.389583           No Match
+Img_2_2_2.jpg Img_39_1_2.jpg        0.396354           No Match
+Img_2_2_2.jpg Img_39_2_2.jpg        0.413021           No Match
+Img_2_2_2.jpg Img_3_1_5.jpg        0.371354           No Match
+Img_2_2_2.jpg Img_3_2_3.jpg        0.373437           No Match
+Img_2_2_2.jpg Img_41_1_5.jpg        0.385937           No Match
+Img_2_2_2.jpg Img_41_2_3.jpg        0.376563           No Match
+Img_2_2_2.jpg Img_44_1_5.jpg        0.381771           No Match
+Img_2_2_2.jpg Img_44_2_2.jpg        0.367708           No Match
+Img_2_2_2.jpg Img_45_1_5.jpg        0.385417           No Match
+Img_2_2_2.jpg Img_45_2_5.jpg        0.385937           No Match
+Img_2_2_2.jpg Img_46_1_5.jpg        0.375521           No Match
+Img_2_2_2.jpg Img_46_2_4.jpg        0.388021           No Match
+Img_2_2_2.jpg Img_5_1_5.jpg        0.372917           No Match
+Img_2_2_2.jpg Img_5_2_3.jpg        0.386458           No Match
+Img_2_2_2.jpg Img_6_1_1.jpg        0.369271           No Match
+Img_2_2_2.jpg Img_6_2_5.jpg        0.377083           No Match
+Img_2_2_2.jpg Img_8_1_1.jpg        0.380208           No Match
+Img_2_2_2.jpg Img_8_2_1.jpg        0.391146           No Match
+Img_32_1_5.jpg Img_32_2_4.jpg        0.389062           No Match
+Img_32_1_5.jpg Img_39_1_2.jpg        0.408333           No Match
+Img_32_1_5.jpg Img_39_2_2.jpg        0.404167           No Match
+Img_32_1_5.jpg Img_3_1_5.jpg        0.398958           No Match
+Img_32_1_5.jpg Img_3_2_3.jpg        0.395833           No Match
+Img_32_1_5.jpg Img_41_1_5.jpg        0.388542           No Match
+Img_32_1_5.jpg Img_41_2_3.jpg        0.385417           No Match
+Img_32_1_5.jpg Img_44_1_5.jpg        0.385417           No Match
+Img_32_1_5.jpg Img_44_2_2.jpg        0.380729           No Match
+Img_32_1_5.jpg Img_45_1_5.jpg        0.399479           No Match
+Img_32_1_5.jpg Img_45_2_5.jpg        0.388542           No Match
+Img_32_1_5.jpg Img_46_1_5.jpg        0.397917           No Match
+Img_32_1_5.jpg Img_46_2_4.jpg        0.406250           No Match
+Img_32_1_5.jpg Img_5_1_5.jpg        0.390104           No Match
+Img_32_1_5.jpg Img_5_2_3.jpg        0.396354           No Match
+Img_32_1_5.jpg Img_6_1_1.jpg        0.401042           No Match
+Img_32_1_5.jpg Img_6_2_5.jpg        0.397396           No Match
+Img_32_1_5.jpg Img_8_1_1.jpg        0.388021           No Match
+Img_32_1_5.jpg Img_8_2_1.jpg        0.380208           No Match
+Img_32_2_4.jpg Img_39_1_2.jpg        0.400521           No Match
+Img_32_2_4.jpg Img_39_2_2.jpg        0.408854           No Match
+Img_32_2_4.jpg Img_3_1_5.jpg        0.393229           No Match
+Img_32_2_4.jpg Img_3_2_3.jpg        0.390104           No Match
+Img_32_2_4.jpg Img_41_1_5.jpg        0.388021           No Match
+Img_32_2_4.jpg Img_41_2_3.jpg        0.359896              Match
+Img_32_2_4.jpg Img_44_1_5.jpg        0.396354           No Match
+Img_32_2_4.jpg Img_44_2_2.jpg        0.382292           No Match
+Img_32_2_4.jpg Img_45_1_5.jpg        0.384375           No Match
+Img_32_2_4.jpg Img_45_2_5.jpg        0.396354           No Match
+Img_32_2_4.jpg Img_46_1_5.jpg        0.391146           No Match
+Img_32_2_4.jpg Img_46_2_4.jpg        0.395313           No Match
+Img_32_2_4.jpg Img_5_1_5.jpg        0.395833           No Match
+Img_32_2_4.jpg Img_5_2_3.jpg        0.386458           No Match
+Img_32_2_4.jpg Img_6_1_1.jpg        0.373437           No Match
+Img_32_2_4.jpg Img_6_2_5.jpg        0.389583           No Match
+Img_32_2_4.jpg Img_8_1_1.jpg        0.375000           No Match
+Img_32_2_4.jpg Img_8_2_1.jpg        0.354687              Match
+Img_39_1_2.jpg Img_39_2_2.jpg        0.426042           No Match
+Img_39_1_2.jpg Img_3_1_5.jpg        0.416667           No Match
+Img_39_1_2.jpg Img_3_2_3.jpg        0.422917           No Match
+Img_39_1_2.jpg Img_41_1_5.jpg        0.413542           No Match
+Img_39_1_2.jpg Img_41_2_3.jpg        0.426042           No Match
+Img_39_1_2.jpg Img_44_1_5.jpg        0.414583           No Match
+Img_39_1_2.jpg Img_44_2_2.jpg        0.413021           No Match
+Img_39_1_2.jpg Img_45_1_5.jpg        0.414063           No Match
+Img_39_1_2.jpg Img_45_2_5.jpg        0.414583           No Match
+Img_39_1_2.jpg Img_46_1_5.jpg        0.404167           No Match
+Img_39_1_2.jpg Img_46_2_4.jpg        0.413542           No Match
+Img_39_1_2.jpg Img_5_1_5.jpg        0.397396           No Match
+Img_39_1_2.jpg Img_5_2_3.jpg        0.407813           No Match
+Img_39_1_2.jpg Img_6_1_1.jpg        0.410417           No Match
+Img_39_1_2.jpg Img_6_2_5.jpg        0.409896           No Match
+Img_39_1_2.jpg Img_8_1_1.jpg        0.417187           No Match
+Img_39_1_2.jpg Img_8_2_1.jpg        0.415625           No Match
+Img_39_2_2.jpg Img_3_1_5.jpg        0.408333           No Match
+Img_39_2_2.jpg Img_3_2_3.jpg        0.389583           No Match
+Img_39_2_2.jpg Img_41_1_5.jpg        0.397917           No Match
+Img_39_2_2.jpg Img_41_2_3.jpg        0.410417           No Match
+Img_39_2_2.jpg Img_44_1_5.jpg        0.403125           No Match
+Img_39_2_2.jpg Img_44_2_2.jpg        0.398438           No Match
+Img_39_2_2.jpg Img_45_1_5.jpg        0.399479           No Match
+Img_39_2_2.jpg Img_45_2_5.jpg        0.406250           No Match
+Img_39_2_2.jpg Img_46_1_5.jpg        0.404167           No Match
+Img_39_2_2.jpg Img_46_2_4.jpg        0.406250           No Match
+Img_39_2_2.jpg Img_5_1_5.jpg        0.414063           No Match
+Img_39_2_2.jpg Img_5_2_3.jpg        0.404687           No Match
+Img_39_2_2.jpg Img_6_1_1.jpg        0.400000           No Match
+Img_39_2_2.jpg Img_6_2_5.jpg        0.406771           No Match
+Img_39_2_2.jpg Img_8_1_1.jpg        0.407813           No Match
+Img_39_2_2.jpg Img_8_2_1.jpg        0.400000           No Match
+Img_3_1_5.jpg Img_3_2_3.jpg        0.227083              Match
+Img_3_1_5.jpg Img_41_1_5.jpg        0.332292              Match
+Img_3_1_5.jpg Img_41_2_3.jpg        0.335417              Match
+Img_3_1_5.jpg Img_44_1_5.jpg        0.328125              Match
+Img_3_1_5.jpg Img_44_2_2.jpg        0.344271              Match
+Img_3_1_5.jpg Img_45_1_5.jpg        0.370312           No Match
+Img_3_1_5.jpg Img_45_2_5.jpg        0.372917           No Match
+Img_3_1_5.jpg Img_46_1_5.jpg        0.367708           No Match
+Img_3_1_5.jpg Img_46_2_4.jpg        0.348958              Match
+Img_3_1_5.jpg Img_5_1_5.jpg        0.334896              Match
+Img_3_1_5.jpg Img_5_2_3.jpg        0.349479              Match
+Img_3_1_5.jpg Img_6_1_1.jpg        0.351042              Match
+Img_3_1_5.jpg Img_6_2_5.jpg        0.345313              Match
+Img_3_1_5.jpg Img_8_1_1.jpg        0.333854              Match
+Img_3_1_5.jpg Img_8_2_1.jpg        0.332292              Match
+Img_3_2_3.jpg Img_41_1_5.jpg        0.339583              Match
+Img_3_2_3.jpg Img_41_2_3.jpg        0.333333              Match
+Img_3_2_3.jpg Img_44_1_5.jpg        0.340625              Match
+Img_3_2_3.jpg Img_44_2_2.jpg        0.356771              Match
+Img_3_2_3.jpg Img_45_1_5.jpg        0.371354           No Match
+Img_3_2_3.jpg Img_45_2_5.jpg        0.373958           No Match
+Img_3_2_3.jpg Img_46_1_5.jpg        0.367708           No Match
+Img_3_2_3.jpg Img_46_2_4.jpg        0.363542           No Match
+Img_3_2_3.jpg Img_5_1_5.jpg        0.334896              Match
+Img_3_2_3.jpg Img_5_2_3.jpg        0.349479              Match
+Img_3_2_3.jpg Img_6_1_1.jpg        0.343750              Match
+Img_3_2_3.jpg Img_6_2_5.jpg        0.347396              Match
+Img_3_2_3.jpg Img_8_1_1.jpg        0.350521              Match
+Img_3_2_3.jpg Img_8_2_1.jpg        0.329167              Match
+Img_41_1_5.jpg Img_41_2_3.jpg        0.304167              Match
+Img_41_1_5.jpg Img_44_1_5.jpg        0.356250              Match
+Img_41_1_5.jpg Img_44_2_2.jpg        0.365104           No Match
+Img_41_1_5.jpg Img_45_1_5.jpg        0.369271           No Match
+Img_41_1_5.jpg Img_45_2_5.jpg        0.379167           No Match
+Img_41_1_5.jpg Img_46_1_5.jpg        0.368750           No Match
+Img_41_1_5.jpg Img_46_2_4.jpg        0.360417           No Match
+Img_41_1_5.jpg Img_5_1_5.jpg        0.356771              Match
+Img_41_1_5.jpg Img_5_2_3.jpg        0.369271           No Match
+Img_41_1_5.jpg Img_6_1_1.jpg        0.346875              Match
+Img_41_1_5.jpg Img_6_2_5.jpg        0.356771              Match
+Img_41_1_5.jpg Img_8_1_1.jpg        0.353646              Match
+Img_41_1_5.jpg Img_8_2_1.jpg        0.342708              Match
+Img_41_2_3.jpg Img_44_1_5.jpg        0.339583              Match
+Img_41_2_3.jpg Img_44_2_2.jpg        0.365104           No Match
+Img_41_2_3.jpg Img_45_1_5.jpg        0.352604              Match
+Img_41_2_3.jpg Img_45_2_5.jpg        0.348958              Match
+Img_41_2_3.jpg Img_46_1_5.jpg        0.371875           No Match
+Img_41_2_3.jpg Img_46_2_4.jpg        0.361458           No Match
+Img_41_2_3.jpg Img_5_1_5.jpg        0.365104           No Match
+Img_41_2_3.jpg Img_5_2_3.jpg        0.367188           No Match
+Img_41_2_3.jpg Img_6_1_1.jpg        0.341667              Match
+Img_41_2_3.jpg Img_6_2_5.jpg        0.352604              Match
+Img_41_2_3.jpg Img_8_1_1.jpg        0.360938           No Match
+Img_41_2_3.jpg Img_8_2_1.jpg        0.338542              Match
+Img_44_1_5.jpg Img_44_2_2.jpg        0.315104              Match
+Img_44_1_5.jpg Img_45_1_5.jpg        0.390104           No Match
+Img_44_1_5.jpg Img_45_2_5.jpg        0.396875           No Match
+Img_44_1_5.jpg Img_46_1_5.jpg        0.385417           No Match
+Img_44_1_5.jpg Img_46_2_4.jpg        0.366667           No Match
+Img_44_1_5.jpg Img_5_1_5.jpg        0.372396           No Match
+Img_44_1_5.jpg Img_5_2_3.jpg        0.376563           No Match
+Img_44_1_5.jpg Img_6_1_1.jpg        0.360417           No Match
+Img_44_1_5.jpg Img_6_2_5.jpg        0.371354           No Match
+Img_44_1_5.jpg Img_8_1_1.jpg        0.356771              Match
+Img_44_1_5.jpg Img_8_2_1.jpg        0.357292              Match
+Img_44_2_2.jpg Img_45_1_5.jpg        0.393750           No Match
+Img_44_2_2.jpg Img_45_2_5.jpg        0.384896           No Match
+Img_44_2_2.jpg Img_46_1_5.jpg        0.389062           No Match
+Img_44_2_2.jpg Img_46_2_4.jpg        0.370312           No Match
+Img_44_2_2.jpg Img_5_1_5.jpg        0.354167              Match
+Img_44_2_2.jpg Img_5_2_3.jpg        0.363542           No Match
+Img_44_2_2.jpg Img_6_1_1.jpg        0.361979           No Match
+Img_44_2_2.jpg Img_6_2_5.jpg        0.361458           No Match
+Img_44_2_2.jpg Img_8_1_1.jpg        0.364583           No Match
+Img_44_2_2.jpg Img_8_2_1.jpg        0.354687              Match
+Img_45_1_5.jpg Img_45_2_5.jpg        0.331771              Match
+Img_45_1_5.jpg Img_46_1_5.jpg        0.370312           No Match
+Img_45_1_5.jpg Img_46_2_4.jpg        0.378646           No Match
+Img_45_1_5.jpg Img_5_1_5.jpg        0.390625           No Match
+Img_45_1_5.jpg Img_5_2_3.jpg        0.388542           No Match
+Img_45_1_5.jpg Img_6_1_1.jpg        0.364063           No Match
+Img_45_1_5.jpg Img_6_2_5.jpg        0.375000           No Match
+Img_45_1_5.jpg Img_8_1_1.jpg        0.383333           No Match
+Img_45_1_5.jpg Img_8_2_1.jpg        0.376563           No Match
+Img_45_2_5.jpg Img_46_1_5.jpg        0.387500           No Match
+Img_45_2_5.jpg Img_46_2_4.jpg        0.378125           No Match
+Img_45_2_5.jpg Img_5_1_5.jpg        0.385937           No Match
+Img_45_2_5.jpg Img_5_2_3.jpg        0.391146           No Match
+Img_45_2_5.jpg Img_6_1_1.jpg        0.368750           No Match
+Img_45_2_5.jpg Img_6_2_5.jpg        0.370312           No Match
+Img_45_2_5.jpg Img_8_1_1.jpg        0.367188           No Match
+Img_45_2_5.jpg Img_8_2_1.jpg        0.379167           No Match
+Img_46_1_5.jpg Img_46_2_4.jpg        0.360417           No Match
+Img_46_1_5.jpg Img_5_1_5.jpg        0.385937           No Match
+Img_46_1_5.jpg Img_5_2_3.jpg        0.383854           No Match
+Img_46_1_5.jpg Img_6_1_1.jpg        0.344792              Match
+Img_46_1_5.jpg Img_6_2_5.jpg        0.364063           No Match
+Img_46_1_5.jpg Img_8_1_1.jpg        0.374479           No Match
+Img_46_1_5.jpg Img_8_2_1.jpg        0.363542           No Match
+Img_46_2_4.jpg Img_5_1_5.jpg        0.375521           No Match
+Img_46_2_4.jpg Img_5_2_3.jpg        0.377604           No Match
+Img_46_2_4.jpg Img_6_1_1.jpg        0.377083           No Match
+Img_46_2_4.jpg Img_6_2_5.jpg        0.372396           No Match
+Img_46_2_4.jpg Img_8_1_1.jpg        0.377604           No Match
+Img_46_2_4.jpg Img_8_2_1.jpg        0.365625           No Match
+Img_5_1_5.jpg Img_5_2_3.jpg        0.326042              Match
+Img_5_1_5.jpg Img_6_1_1.jpg        0.368229           No Match
+Img_5_1_5.jpg Img_6_2_5.jpg        0.375000           No Match
+Img_5_1_5.jpg Img_8_1_1.jpg        0.357292              Match
+Img_5_1_5.jpg Img_8_2_1.jpg        0.367188           No Match
+Img_5_2_3.jpg Img_6_1_1.jpg        0.358854              Match
+Img_5_2_3.jpg Img_6_2_5.jpg        0.375000           No Match
+Img_5_2_3.jpg Img_8_1_1.jpg        0.352083              Match
+Img_5_2_3.jpg Img_8_2_1.jpg        0.359896              Match
+Img_6_1_1.jpg Img_6_2_5.jpg        0.320313              Match
+Img_6_1_1.jpg Img_8_1_1.jpg        0.361979           No Match
+Img_6_1_1.jpg Img_8_2_1.jpg        0.355208              Match
+Img_6_2_5.jpg Img_8_1_1.jpg        0.377083           No Match
+Img_6_2_5.jpg Img_8_2_1.jpg        0.363021           No Match
+Img_8_1_1.jpg Img_8_2_1.jpg        0.271354              Match
+---------------------------------------------------------------------------
+  Img1         Img2                 HD                   Status
+Img_16_1_5.jpg Img_16_2_1.jpg        0.336458              Match
+Img_16_1_5.jpg Img_19_1_5.jpg        0.406771           No Match
+Img_16_1_5.jpg Img_19_2_4.jpg        0.407813           No Match
+Img_16_1_5.jpg Img_1_1_5.jpg        0.425000           No Match
+Img_16_1_5.jpg Img_1_2_4.jpg        0.407813           No Match
+Img_16_1_5.jpg Img_22_1_5.jpg        0.414063           No Match
+Img_16_1_5.jpg Img_22_2_2.jpg        0.401042           No Match
+Img_16_1_5.jpg Img_24_1_5.jpg        0.404687           No Match
+Img_16_1_5.jpg Img_24_2_3.jpg        0.401042           No Match
+Img_16_1_5.jpg Img_27_1_5.jpg        0.394792           No Match
+Img_16_1_5.jpg Img_27_2_3.jpg        0.403646           No Match
+Img_16_1_5.jpg Img_2_1_1.jpg        0.369271              Match
+Img_16_1_5.jpg Img_2_2_2.jpg        0.397396           No Match
+Img_16_1_5.jpg Img_32_1_5.jpg        0.398958           No Match
+Img_16_1_5.jpg Img_32_2_4.jpg        0.392188           No Match
+Img_16_1_5.jpg Img_39_1_2.jpg        0.416667           No Match
+Img_16_1_5.jpg Img_39_2_2.jpg        0.415625           No Match
+Img_16_1_5.jpg Img_3_1_5.jpg        0.407292           No Match
+Img_16_1_5.jpg Img_3_2_3.jpg        0.408333           No Match
+Img_16_1_5.jpg Img_41_1_5.jpg        0.400000           No Match
+Img_16_1_5.jpg Img_41_2_3.jpg        0.408333           No Match
+Img_16_1_5.jpg Img_44_1_5.jpg        0.405208           No Match
+Img_16_1_5.jpg Img_44_2_2.jpg        0.409896           No Match
+Img_16_1_5.jpg Img_45_1_5.jpg        0.400521           No Match
+Img_16_1_5.jpg Img_45_2_5.jpg        0.397917           No Match
+Img_16_1_5.jpg Img_46_1_5.jpg        0.398958           No Match
+Img_16_1_5.jpg Img_46_2_4.jpg        0.398958           No Match
+Img_16_1_5.jpg Img_5_1_5.jpg        0.403646           No Match
+Img_16_1_5.jpg Img_5_2_3.jpg        0.403646           No Match
+Img_16_1_5.jpg Img_6_1_1.jpg        0.392708           No Match
+Img_16_1_5.jpg Img_6_2_5.jpg        0.405729           No Match
+Img_16_1_5.jpg Img_8_1_1.jpg        0.419271           No Match
+Img_16_1_5.jpg Img_8_2_1.jpg        0.397917           No Match
+Img_16_2_1.jpg Img_19_1_5.jpg        0.393229           No Match
+Img_16_2_1.jpg Img_19_2_4.jpg        0.383854              Match
+Img_16_2_1.jpg Img_1_1_5.jpg        0.410417           No Match
+Img_16_2_1.jpg Img_1_2_4.jpg        0.377604              Match
+Img_16_2_1.jpg Img_22_1_5.jpg        0.389062              Match
+Img_16_2_1.jpg Img_22_2_2.jpg        0.395833           No Match
+Img_16_2_1.jpg Img_24_1_5.jpg        0.401562           No Match
+Img_16_2_1.jpg Img_24_2_3.jpg        0.379167              Match
+Img_16_2_1.jpg Img_27_1_5.jpg        0.402083           No Match
+Img_16_2_1.jpg Img_27_2_3.jpg        0.397396           No Match
+Img_16_2_1.jpg Img_2_1_1.jpg        0.378646              Match
+Img_16_2_1.jpg Img_2_2_2.jpg        0.383854              Match
+Img_16_2_1.jpg Img_32_1_5.jpg        0.375000              Match
+Img_16_2_1.jpg Img_32_2_4.jpg        0.386979              Match
+Img_16_2_1.jpg Img_39_1_2.jpg        0.420833           No Match
+Img_16_2_1.jpg Img_39_2_2.jpg        0.412500           No Match
+Img_16_2_1.jpg Img_3_1_5.jpg        0.367708              Match
+Img_16_2_1.jpg Img_3_2_3.jpg        0.380208              Match
+Img_16_2_1.jpg Img_41_1_5.jpg        0.387500              Match
+Img_16_2_1.jpg Img_41_2_3.jpg        0.393750           No Match
+Img_16_2_1.jpg Img_44_1_5.jpg        0.408333           No Match
+Img_16_2_1.jpg Img_44_2_2.jpg        0.389062              Match
+Img_16_2_1.jpg Img_45_1_5.jpg        0.399479           No Match
+Img_16_2_1.jpg Img_45_2_5.jpg        0.391667           No Match
+Img_16_2_1.jpg Img_46_1_5.jpg        0.383333              Match
+Img_16_2_1.jpg Img_46_2_4.jpg        0.391667           No Match
+Img_16_2_1.jpg Img_5_1_5.jpg        0.380729              Match
+Img_16_2_1.jpg Img_5_2_3.jpg        0.373437              Match
+Img_16_2_1.jpg Img_6_1_1.jpg        0.392708           No Match
+Img_16_2_1.jpg Img_6_2_5.jpg        0.382813              Match
+Img_16_2_1.jpg Img_8_1_1.jpg        0.390104           No Match
+Img_16_2_1.jpg Img_8_2_1.jpg        0.377083              Match
+Img_19_1_5.jpg Img_19_2_4.jpg        0.281250              Match
+Img_19_1_5.jpg Img_1_1_5.jpg        0.382813              Match
+Img_19_1_5.jpg Img_1_2_4.jpg        0.361458              Match
+Img_19_1_5.jpg Img_22_1_5.jpg        0.385417              Match
+Img_19_1_5.jpg Img_22_2_2.jpg        0.384896              Match
+Img_19_1_5.jpg Img_24_1_5.jpg        0.397917           No Match
+Img_19_1_5.jpg Img_24_2_3.jpg        0.379688              Match
+Img_19_1_5.jpg Img_27_1_5.jpg        0.392188           No Match
+Img_19_1_5.jpg Img_27_2_3.jpg        0.401042           No Match
+Img_19_1_5.jpg Img_2_1_1.jpg        0.392708           No Match
+Img_19_1_5.jpg Img_2_2_2.jpg        0.397917           No Match
+Img_19_1_5.jpg Img_32_1_5.jpg        0.381771              Match
+Img_19_1_5.jpg Img_32_2_4.jpg        0.389583              Match
+Img_19_1_5.jpg Img_39_1_2.jpg        0.413021           No Match
+Img_19_1_5.jpg Img_39_2_2.jpg        0.421354           No Match
+Img_19_1_5.jpg Img_3_1_5.jpg        0.361979              Match
+Img_19_1_5.jpg Img_3_2_3.jpg        0.359896              Match
+Img_19_1_5.jpg Img_41_1_5.jpg        0.361979              Match
+Img_19_1_5.jpg Img_41_2_3.jpg        0.358854              Match
+Img_19_1_5.jpg Img_44_1_5.jpg        0.382813              Match
+Img_19_1_5.jpg Img_44_2_2.jpg        0.376042              Match
+Img_19_1_5.jpg Img_45_1_5.jpg        0.388542              Match
+Img_19_1_5.jpg Img_45_2_5.jpg        0.394271           No Match
+Img_19_1_5.jpg Img_46_1_5.jpg        0.385937              Match
+Img_19_1_5.jpg Img_46_2_4.jpg        0.388021              Match
+Img_19_1_5.jpg Img_5_1_5.jpg        0.379167              Match
+Img_19_1_5.jpg Img_5_2_3.jpg        0.388542              Match
+Img_19_1_5.jpg Img_6_1_1.jpg        0.367188              Match
+Img_19_1_5.jpg Img_6_2_5.jpg        0.361458              Match
+Img_19_1_5.jpg Img_8_1_1.jpg        0.366667              Match
+Img_19_1_5.jpg Img_8_2_1.jpg        0.353646              Match
+Img_19_2_4.jpg Img_1_1_5.jpg        0.397396           No Match
+Img_19_2_4.jpg Img_1_2_4.jpg        0.390625           No Match
+Img_19_2_4.jpg Img_22_1_5.jpg        0.364583              Match
+Img_19_2_4.jpg Img_22_2_2.jpg        0.394271           No Match
+Img_19_2_4.jpg Img_24_1_5.jpg        0.390625           No Match
+Img_19_2_4.jpg Img_24_2_3.jpg        0.377604              Match
+Img_19_2_4.jpg Img_27_1_5.jpg        0.373437              Match
+Img_19_2_4.jpg Img_27_2_3.jpg        0.380208              Match
+Img_19_2_4.jpg Img_2_1_1.jpg        0.369792              Match
+Img_19_2_4.jpg Img_2_2_2.jpg        0.372917              Match
+Img_19_2_4.jpg Img_32_1_5.jpg        0.386979              Match
+Img_19_2_4.jpg Img_32_2_4.jpg        0.384375              Match
+Img_19_2_4.jpg Img_39_1_2.jpg        0.413021           No Match
+Img_19_2_4.jpg Img_39_2_2.jpg        0.405729           No Match
+Img_19_2_4.jpg Img_3_1_5.jpg        0.350521              Match
+Img_19_2_4.jpg Img_3_2_3.jpg        0.355729              Match
+Img_19_2_4.jpg Img_41_1_5.jpg        0.360938              Match
+Img_19_2_4.jpg Img_41_2_3.jpg        0.355729              Match
+Img_19_2_4.jpg Img_44_1_5.jpg        0.371354              Match
+Img_19_2_4.jpg Img_44_2_2.jpg        0.369792              Match
+Img_19_2_4.jpg Img_45_1_5.jpg        0.380208              Match
+Img_19_2_4.jpg Img_45_2_5.jpg        0.382813              Match
+Img_19_2_4.jpg Img_46_1_5.jpg        0.360938              Match
+Img_19_2_4.jpg Img_46_2_4.jpg        0.370312              Match
+Img_19_2_4.jpg Img_5_1_5.jpg        0.373958              Match
+Img_19_2_4.jpg Img_5_2_3.jpg        0.358333              Match
+Img_19_2_4.jpg Img_6_1_1.jpg        0.356771              Match
+Img_19_2_4.jpg Img_6_2_5.jpg        0.372917              Match
+Img_19_2_4.jpg Img_8_1_1.jpg        0.361458              Match
+Img_19_2_4.jpg Img_8_2_1.jpg        0.350521              Match
+Img_1_1_5.jpg Img_1_2_4.jpg        0.298438              Match
+Img_1_1_5.jpg Img_22_1_5.jpg        0.406771           No Match
+Img_1_1_5.jpg Img_22_2_2.jpg        0.390625           No Match
+Img_1_1_5.jpg Img_24_1_5.jpg        0.392188           No Match
+Img_1_1_5.jpg Img_24_2_3.jpg        0.390625           No Match
+Img_1_1_5.jpg Img_27_1_5.jpg        0.381250              Match
+Img_1_1_5.jpg Img_27_2_3.jpg        0.391146           No Match
+Img_1_1_5.jpg Img_2_1_1.jpg        0.400521           No Match
+Img_1_1_5.jpg Img_2_2_2.jpg        0.413021           No Match
+Img_1_1_5.jpg Img_32_1_5.jpg        0.398958           No Match
+Img_1_1_5.jpg Img_32_2_4.jpg        0.407813           No Match
+Img_1_1_5.jpg Img_39_1_2.jpg        0.423958           No Match
+Img_1_1_5.jpg Img_39_2_2.jpg        0.396875           No Match
+Img_1_1_5.jpg Img_3_1_5.jpg        0.381250              Match
+Img_1_1_5.jpg Img_3_2_3.jpg        0.388542              Match
+Img_1_1_5.jpg Img_41_1_5.jpg        0.392708           No Match
+Img_1_1_5.jpg Img_41_2_3.jpg        0.380208              Match
+Img_1_1_5.jpg Img_44_1_5.jpg        0.383333              Match
+Img_1_1_5.jpg Img_44_2_2.jpg        0.401562           No Match
+Img_1_1_5.jpg Img_45_1_5.jpg        0.404687           No Match
+Img_1_1_5.jpg Img_45_2_5.jpg        0.386458              Match
+Img_1_1_5.jpg Img_46_1_5.jpg        0.388542              Match
+Img_1_1_5.jpg Img_46_2_4.jpg        0.408333           No Match
+Img_1_1_5.jpg Img_5_1_5.jpg        0.392188           No Match
+Img_1_1_5.jpg Img_5_2_3.jpg        0.395313           No Match
+Img_1_1_5.jpg Img_6_1_1.jpg        0.394792           No Match
+Img_1_1_5.jpg Img_6_2_5.jpg        0.398438           No Match
+Img_1_1_5.jpg Img_8_1_1.jpg        0.384896              Match
+Img_1_1_5.jpg Img_8_2_1.jpg        0.406250           No Match
+Img_1_2_4.jpg Img_22_1_5.jpg        0.395833           No Match
+Img_1_2_4.jpg Img_22_2_2.jpg        0.393229           No Match
+Img_1_2_4.jpg Img_24_1_5.jpg        0.382292              Match
+Img_1_2_4.jpg Img_24_2_3.jpg        0.386979              Match
+Img_1_2_4.jpg Img_27_1_5.jpg        0.371354              Match
+Img_1_2_4.jpg Img_27_2_3.jpg        0.397917           No Match
+Img_1_2_4.jpg Img_2_1_1.jpg        0.394792           No Match
+Img_1_2_4.jpg Img_2_2_2.jpg        0.405208           No Match
+Img_1_2_4.jpg Img_32_1_5.jpg        0.404687           No Match
+Img_1_2_4.jpg Img_32_2_4.jpg        0.366667              Match
+Img_1_2_4.jpg Img_39_1_2.jpg        0.414063           No Match
+Img_1_2_4.jpg Img_39_2_2.jpg        0.407813           No Match
+Img_1_2_4.jpg Img_3_1_5.jpg        0.375521              Match
+Img_1_2_4.jpg Img_3_2_3.jpg        0.380729              Match
+Img_1_2_4.jpg Img_41_1_5.jpg        0.385937              Match
+Img_1_2_4.jpg Img_41_2_3.jpg        0.381771              Match
+Img_1_2_4.jpg Img_44_1_5.jpg        0.377604              Match
+Img_1_2_4.jpg Img_44_2_2.jpg        0.381250              Match
+Img_1_2_4.jpg Img_45_1_5.jpg        0.393750           No Match
+Img_1_2_4.jpg Img_45_2_5.jpg        0.391146           No Match
+Img_1_2_4.jpg Img_46_1_5.jpg        0.401562           No Match
+Img_1_2_4.jpg Img_46_2_4.jpg        0.390104           No Match
+Img_1_2_4.jpg Img_5_1_5.jpg        0.365625              Match
+Img_1_2_4.jpg Img_5_2_3.jpg        0.395833           No Match
+Img_1_2_4.jpg Img_6_1_1.jpg        0.386979              Match
+Img_1_2_4.jpg Img_6_2_5.jpg        0.379167              Match
+Img_1_2_4.jpg Img_8_1_1.jpg        0.381250              Match
+Img_1_2_4.jpg Img_8_2_1.jpg        0.388021              Match
+Img_22_1_5.jpg Img_22_2_2.jpg        0.392188           No Match
+Img_22_1_5.jpg Img_24_1_5.jpg        0.378125              Match
+Img_22_1_5.jpg Img_24_2_3.jpg        0.395313           No Match
+Img_22_1_5.jpg Img_27_1_5.jpg        0.384896              Match
+Img_22_1_5.jpg Img_27_2_3.jpg        0.396875           No Match
+Img_22_1_5.jpg Img_2_1_1.jpg        0.398958           No Match
+Img_22_1_5.jpg Img_2_2_2.jpg        0.377083              Match
+Img_22_1_5.jpg Img_32_1_5.jpg        0.380729              Match
+Img_22_1_5.jpg Img_32_2_4.jpg        0.387500              Match
+Img_22_1_5.jpg Img_39_1_2.jpg        0.419271           No Match
+Img_22_1_5.jpg Img_39_2_2.jpg        0.407813           No Match
+Img_22_1_5.jpg Img_3_1_5.jpg        0.382813              Match
+Img_22_1_5.jpg Img_3_2_3.jpg        0.380729              Match
+Img_22_1_5.jpg Img_41_1_5.jpg        0.388021              Match
+Img_22_1_5.jpg Img_41_2_3.jpg        0.389062              Match
+Img_22_1_5.jpg Img_44_1_5.jpg        0.379688              Match
+Img_22_1_5.jpg Img_44_2_2.jpg        0.395833           No Match
+Img_22_1_5.jpg Img_45_1_5.jpg        0.378125              Match
+Img_22_1_5.jpg Img_45_2_5.jpg        0.379688              Match
+Img_22_1_5.jpg Img_46_1_5.jpg        0.383854              Match
+Img_22_1_5.jpg Img_46_2_4.jpg        0.399479           No Match
+Img_22_1_5.jpg Img_5_1_5.jpg        0.370833              Match
+Img_22_1_5.jpg Img_5_2_3.jpg        0.383333              Match
+Img_22_1_5.jpg Img_6_1_1.jpg        0.383854              Match
+Img_22_1_5.jpg Img_6_2_5.jpg        0.385417              Match
+Img_22_1_5.jpg Img_8_1_1.jpg        0.391667           No Match
+Img_22_1_5.jpg Img_8_2_1.jpg        0.388021              Match
+Img_22_2_2.jpg Img_24_1_5.jpg        0.405729           No Match
+Img_22_2_2.jpg Img_24_2_3.jpg        0.370833              Match
+Img_22_2_2.jpg Img_27_1_5.jpg        0.394792           No Match
+Img_22_2_2.jpg Img_27_2_3.jpg        0.368229              Match
+Img_22_2_2.jpg Img_2_1_1.jpg        0.411979           No Match
+Img_22_2_2.jpg Img_2_2_2.jpg        0.386979              Match
+Img_22_2_2.jpg Img_32_1_5.jpg        0.394792           No Match
+Img_22_2_2.jpg Img_32_2_4.jpg        0.399479           No Match
+Img_22_2_2.jpg Img_39_1_2.jpg        0.421875           No Match
+Img_22_2_2.jpg Img_39_2_2.jpg        0.393750           No Match
+Img_22_2_2.jpg Img_3_1_5.jpg        0.393750           No Match
+Img_22_2_2.jpg Img_3_2_3.jpg        0.389583              Match
+Img_22_2_2.jpg Img_41_1_5.jpg        0.384375              Match
+Img_22_2_2.jpg Img_41_2_3.jpg        0.380208              Match
+Img_22_2_2.jpg Img_44_1_5.jpg        0.391667           No Match
+Img_22_2_2.jpg Img_44_2_2.jpg        0.398438           No Match
+Img_22_2_2.jpg Img_45_1_5.jpg        0.399479           No Match
+Img_22_2_2.jpg Img_45_2_5.jpg        0.398958           No Match
+Img_22_2_2.jpg Img_46_1_5.jpg        0.387500              Match
+Img_22_2_2.jpg Img_46_2_4.jpg        0.396875           No Match
+Img_22_2_2.jpg Img_5_1_5.jpg        0.390104           No Match
+Img_22_2_2.jpg Img_5_2_3.jpg        0.391146           No Match
+Img_22_2_2.jpg Img_6_1_1.jpg        0.384375              Match
+Img_22_2_2.jpg Img_6_2_5.jpg        0.371354              Match
+Img_22_2_2.jpg Img_8_1_1.jpg        0.394271           No Match
+Img_22_2_2.jpg Img_8_2_1.jpg        0.392708           No Match
+Img_24_1_5.jpg Img_24_2_3.jpg        0.394271           No Match
+Img_24_1_5.jpg Img_27_1_5.jpg        0.393229           No Match
+Img_24_1_5.jpg Img_27_2_3.jpg        0.411458           No Match
+Img_24_1_5.jpg Img_2_1_1.jpg        0.392708           No Match
+Img_24_1_5.jpg Img_2_2_2.jpg        0.389583              Match
+Img_24_1_5.jpg Img_32_1_5.jpg        0.400521           No Match
+Img_24_1_5.jpg Img_32_2_4.jpg        0.396875           No Match
+Img_24_1_5.jpg Img_39_1_2.jpg        0.410938           No Match
+Img_24_1_5.jpg Img_39_2_2.jpg        0.416146           No Match
+Img_24_1_5.jpg Img_3_1_5.jpg        0.381771              Match
+Img_24_1_5.jpg Img_3_2_3.jpg        0.385937              Match
+Img_24_1_5.jpg Img_41_1_5.jpg        0.391146           No Match
+Img_24_1_5.jpg Img_41_2_3.jpg        0.397396           No Match
+Img_24_1_5.jpg Img_44_1_5.jpg        0.392188           No Match
+Img_24_1_5.jpg Img_44_2_2.jpg        0.392708           No Match
+Img_24_1_5.jpg Img_45_1_5.jpg        0.395833           No Match
+Img_24_1_5.jpg Img_45_2_5.jpg        0.405729           No Match
+Img_24_1_5.jpg Img_46_1_5.jpg        0.400521           No Match
+Img_24_1_5.jpg Img_46_2_4.jpg        0.406771           No Match
+Img_24_1_5.jpg Img_5_1_5.jpg        0.384375              Match
+Img_24_1_5.jpg Img_5_2_3.jpg        0.386458              Match
+Img_24_1_5.jpg Img_6_1_1.jpg        0.385937              Match
+Img_24_1_5.jpg Img_6_2_5.jpg        0.379167              Match
+Img_24_1_5.jpg Img_8_1_1.jpg        0.387500              Match
+Img_24_1_5.jpg Img_8_2_1.jpg        0.400521           No Match
+Img_24_2_3.jpg Img_27_1_5.jpg        0.389583              Match
+Img_24_2_3.jpg Img_27_2_3.jpg        0.370312              Match
+Img_24_2_3.jpg Img_2_1_1.jpg        0.390104           No Match
+Img_24_2_3.jpg Img_2_2_2.jpg        0.395313           No Match
+Img_24_2_3.jpg Img_32_1_5.jpg        0.392708           No Match
+Img_24_2_3.jpg Img_32_2_4.jpg        0.381771              Match
+Img_24_2_3.jpg Img_39_1_2.jpg        0.414583           No Match
+Img_24_2_3.jpg Img_39_2_2.jpg        0.377083              Match
+Img_24_2_3.jpg Img_3_1_5.jpg        0.376042              Match
+Img_24_2_3.jpg Img_3_2_3.jpg        0.373958              Match
+Img_24_2_3.jpg Img_41_1_5.jpg        0.378125              Match
+Img_24_2_3.jpg Img_41_2_3.jpg        0.371875              Match
+Img_24_2_3.jpg Img_44_1_5.jpg        0.385417              Match
+Img_24_2_3.jpg Img_44_2_2.jpg        0.382813              Match
+Img_24_2_3.jpg Img_45_1_5.jpg        0.389062              Match
+Img_24_2_3.jpg Img_45_2_5.jpg        0.385417              Match
+Img_24_2_3.jpg Img_46_1_5.jpg        0.397917           No Match
+Img_24_2_3.jpg Img_46_2_4.jpg        0.388542              Match
+Img_24_2_3.jpg Img_5_1_5.jpg        0.375521              Match
+Img_24_2_3.jpg Img_5_2_3.jpg        0.392188           No Match
+Img_24_2_3.jpg Img_6_1_1.jpg        0.373958              Match
+Img_24_2_3.jpg Img_6_2_5.jpg        0.363021              Match
+Img_24_2_3.jpg Img_8_1_1.jpg        0.369271              Match
+Img_24_2_3.jpg Img_8_2_1.jpg        0.375000              Match
+Img_27_1_5.jpg Img_27_2_3.jpg        0.394271           No Match
+Img_27_1_5.jpg Img_2_1_1.jpg        0.407813           No Match
+Img_27_1_5.jpg Img_2_2_2.jpg        0.402604           No Match
+Img_27_1_5.jpg Img_32_1_5.jpg        0.383333              Match
+Img_27_1_5.jpg Img_32_2_4.jpg        0.391146           No Match
+Img_27_1_5.jpg Img_39_1_2.jpg        0.418750           No Match
+Img_27_1_5.jpg Img_39_2_2.jpg        0.418750           No Match
+Img_27_1_5.jpg Img_3_1_5.jpg        0.353125              Match
+Img_27_1_5.jpg Img_3_2_3.jpg        0.360417              Match
+Img_27_1_5.jpg Img_41_1_5.jpg        0.376042              Match
+Img_27_1_5.jpg Img_41_2_3.jpg        0.375000              Match
+Img_27_1_5.jpg Img_44_1_5.jpg        0.375000              Match
+Img_27_1_5.jpg Img_44_2_2.jpg        0.382813              Match
+Img_27_1_5.jpg Img_45_1_5.jpg        0.393229           No Match
+Img_27_1_5.jpg Img_45_2_5.jpg        0.384375              Match
+Img_27_1_5.jpg Img_46_1_5.jpg        0.383333              Match
+Img_27_1_5.jpg Img_46_2_4.jpg        0.379167              Match
+Img_27_1_5.jpg Img_5_1_5.jpg        0.377604              Match
+Img_27_1_5.jpg Img_5_2_3.jpg        0.375521              Match
+Img_27_1_5.jpg Img_6_1_1.jpg        0.379167              Match
+Img_27_1_5.jpg Img_6_2_5.jpg        0.378646              Match
+Img_27_1_5.jpg Img_8_1_1.jpg        0.368229              Match
+Img_27_1_5.jpg Img_8_2_1.jpg        0.367708              Match
+Img_27_2_3.jpg Img_2_1_1.jpg        0.401042           No Match
+Img_27_2_3.jpg Img_2_2_2.jpg        0.405208           No Match
+Img_27_2_3.jpg Img_32_1_5.jpg        0.404687           No Match
+Img_27_2_3.jpg Img_32_2_4.jpg        0.395833           No Match
+Img_27_2_3.jpg Img_39_1_2.jpg        0.409896           No Match
+Img_27_2_3.jpg Img_39_2_2.jpg        0.394271           No Match
+Img_27_2_3.jpg Img_3_1_5.jpg        0.370312              Match
+Img_27_2_3.jpg Img_3_2_3.jpg        0.383854              Match
+Img_27_2_3.jpg Img_41_1_5.jpg        0.372396              Match
+Img_27_2_3.jpg Img_41_2_3.jpg        0.363021              Match
+Img_27_2_3.jpg Img_44_1_5.jpg        0.389062              Match
+Img_27_2_3.jpg Img_44_2_2.jpg        0.393750           No Match
+Img_27_2_3.jpg Img_45_1_5.jpg        0.388542              Match
+Img_27_2_3.jpg Img_45_2_5.jpg        0.383854              Match
+Img_27_2_3.jpg Img_46_1_5.jpg        0.393229           No Match
+Img_27_2_3.jpg Img_46_2_4.jpg        0.397396           No Match
+Img_27_2_3.jpg Img_5_1_5.jpg        0.398958           No Match
+Img_27_2_3.jpg Img_5_2_3.jpg        0.397917           No Match
+Img_27_2_3.jpg Img_6_1_1.jpg        0.377604              Match
+Img_27_2_3.jpg Img_6_2_5.jpg        0.392708           No Match
+Img_27_2_3.jpg Img_8_1_1.jpg        0.388542              Match
+Img_27_2_3.jpg Img_8_2_1.jpg        0.386979              Match
+Img_2_1_1.jpg Img_2_2_2.jpg        0.322917              Match
+Img_2_1_1.jpg Img_32_1_5.jpg        0.407813           No Match
+Img_2_1_1.jpg Img_32_2_4.jpg        0.402083           No Match
+Img_2_1_1.jpg Img_39_1_2.jpg        0.422396           No Match
+Img_2_1_1.jpg Img_39_2_2.jpg        0.426563           No Match
+Img_2_1_1.jpg Img_3_1_5.jpg        0.377604              Match
+Img_2_1_1.jpg Img_3_2_3.jpg        0.380729              Match
+Img_2_1_1.jpg Img_41_1_5.jpg        0.388021              Match
+Img_2_1_1.jpg Img_41_2_3.jpg        0.383854              Match
+Img_2_1_1.jpg Img_44_1_5.jpg        0.399479           No Match
+Img_2_1_1.jpg Img_44_2_2.jpg        0.382292              Match
+Img_2_1_1.jpg Img_45_1_5.jpg        0.391667           No Match
+Img_2_1_1.jpg Img_45_2_5.jpg        0.397396           No Match
+Img_2_1_1.jpg Img_46_1_5.jpg        0.394271           No Match
+Img_2_1_1.jpg Img_46_2_4.jpg        0.386979              Match
+Img_2_1_1.jpg Img_5_1_5.jpg        0.378125              Match
+Img_2_1_1.jpg Img_5_2_3.jpg        0.380208              Match
+Img_2_1_1.jpg Img_6_1_1.jpg        0.384896              Match
+Img_2_1_1.jpg Img_6_2_5.jpg        0.377083              Match
+Img_2_1_1.jpg Img_8_1_1.jpg        0.387500              Match
+Img_2_1_1.jpg Img_8_2_1.jpg        0.399479           No Match
+Img_2_2_2.jpg Img_32_1_5.jpg        0.404687           No Match
+Img_2_2_2.jpg Img_32_2_4.jpg        0.389583              Match
+Img_2_2_2.jpg Img_39_1_2.jpg        0.396354           No Match
+Img_2_2_2.jpg Img_39_2_2.jpg        0.413021           No Match
+Img_2_2_2.jpg Img_3_1_5.jpg        0.371354              Match
+Img_2_2_2.jpg Img_3_2_3.jpg        0.373437              Match
+Img_2_2_2.jpg Img_41_1_5.jpg        0.385937              Match
+Img_2_2_2.jpg Img_41_2_3.jpg        0.376563              Match
+Img_2_2_2.jpg Img_44_1_5.jpg        0.381771              Match
+Img_2_2_2.jpg Img_44_2_2.jpg        0.367708              Match
+Img_2_2_2.jpg Img_45_1_5.jpg        0.385417              Match
+Img_2_2_2.jpg Img_45_2_5.jpg        0.385937              Match
+Img_2_2_2.jpg Img_46_1_5.jpg        0.375521              Match
+Img_2_2_2.jpg Img_46_2_4.jpg        0.388021              Match
+Img_2_2_2.jpg Img_5_1_5.jpg        0.372917              Match
+Img_2_2_2.jpg Img_5_2_3.jpg        0.386458              Match
+Img_2_2_2.jpg Img_6_1_1.jpg        0.369271              Match
+Img_2_2_2.jpg Img_6_2_5.jpg        0.377083              Match
+Img_2_2_2.jpg Img_8_1_1.jpg        0.380208              Match
+Img_2_2_2.jpg Img_8_2_1.jpg        0.391146           No Match
+Img_32_1_5.jpg Img_32_2_4.jpg        0.389062              Match
+Img_32_1_5.jpg Img_39_1_2.jpg        0.408333           No Match
+Img_32_1_5.jpg Img_39_2_2.jpg        0.404167           No Match
+Img_32_1_5.jpg Img_3_1_5.jpg        0.398958           No Match
+Img_32_1_5.jpg Img_3_2_3.jpg        0.395833           No Match
+Img_32_1_5.jpg Img_41_1_5.jpg        0.388542              Match
+Img_32_1_5.jpg Img_41_2_3.jpg        0.385417              Match
+Img_32_1_5.jpg Img_44_1_5.jpg        0.385417              Match
+Img_32_1_5.jpg Img_44_2_2.jpg        0.380729              Match
+Img_32_1_5.jpg Img_45_1_5.jpg        0.399479           No Match
+Img_32_1_5.jpg Img_45_2_5.jpg        0.388542              Match
+Img_32_1_5.jpg Img_46_1_5.jpg        0.397917           No Match
+Img_32_1_5.jpg Img_46_2_4.jpg        0.406250           No Match
+Img_32_1_5.jpg Img_5_1_5.jpg        0.390104           No Match
+Img_32_1_5.jpg Img_5_2_3.jpg        0.396354           No Match
+Img_32_1_5.jpg Img_6_1_1.jpg        0.401042           No Match
+Img_32_1_5.jpg Img_6_2_5.jpg        0.397396           No Match
+Img_32_1_5.jpg Img_8_1_1.jpg        0.388021              Match
+Img_32_1_5.jpg Img_8_2_1.jpg        0.380208              Match
+Img_32_2_4.jpg Img_39_1_2.jpg        0.400521           No Match
+Img_32_2_4.jpg Img_39_2_2.jpg        0.408854           No Match
+Img_32_2_4.jpg Img_3_1_5.jpg        0.393229           No Match
+Img_32_2_4.jpg Img_3_2_3.jpg        0.390104           No Match
+Img_32_2_4.jpg Img_41_1_5.jpg        0.388021              Match
+Img_32_2_4.jpg Img_41_2_3.jpg        0.359896              Match
+Img_32_2_4.jpg Img_44_1_5.jpg        0.396354           No Match
+Img_32_2_4.jpg Img_44_2_2.jpg        0.382292              Match
+Img_32_2_4.jpg Img_45_1_5.jpg        0.384375              Match
+Img_32_2_4.jpg Img_45_2_5.jpg        0.396354           No Match
+Img_32_2_4.jpg Img_46_1_5.jpg        0.391146           No Match
+Img_32_2_4.jpg Img_46_2_4.jpg        0.395313           No Match
+Img_32_2_4.jpg Img_5_1_5.jpg        0.395833           No Match
+Img_32_2_4.jpg Img_5_2_3.jpg        0.386458              Match
+Img_32_2_4.jpg Img_6_1_1.jpg        0.373437              Match
+Img_32_2_4.jpg Img_6_2_5.jpg        0.389583              Match
+Img_32_2_4.jpg Img_8_1_1.jpg        0.375000              Match
+Img_32_2_4.jpg Img_8_2_1.jpg        0.354687              Match
+Img_39_1_2.jpg Img_39_2_2.jpg        0.426042           No Match
+Img_39_1_2.jpg Img_3_1_5.jpg        0.416667           No Match
+Img_39_1_2.jpg Img_3_2_3.jpg        0.422917           No Match
+Img_39_1_2.jpg Img_41_1_5.jpg        0.413542           No Match
+Img_39_1_2.jpg Img_41_2_3.jpg        0.426042           No Match
+Img_39_1_2.jpg Img_44_1_5.jpg        0.414583           No Match
+Img_39_1_2.jpg Img_44_2_2.jpg        0.413021           No Match
+Img_39_1_2.jpg Img_45_1_5.jpg        0.414063           No Match
+Img_39_1_2.jpg Img_45_2_5.jpg        0.414583           No Match
+Img_39_1_2.jpg Img_46_1_5.jpg        0.404167           No Match
+Img_39_1_2.jpg Img_46_2_4.jpg        0.413542           No Match
+Img_39_1_2.jpg Img_5_1_5.jpg        0.397396           No Match
+Img_39_1_2.jpg Img_5_2_3.jpg        0.407813           No Match
+Img_39_1_2.jpg Img_6_1_1.jpg        0.410417           No Match
+Img_39_1_2.jpg Img_6_2_5.jpg        0.409896           No Match
+Img_39_1_2.jpg Img_8_1_1.jpg        0.417187           No Match
+Img_39_1_2.jpg Img_8_2_1.jpg        0.415625           No Match
+Img_39_2_2.jpg Img_3_1_5.jpg        0.408333           No Match
+Img_39_2_2.jpg Img_3_2_3.jpg        0.389583              Match
+Img_39_2_2.jpg Img_41_1_5.jpg        0.397917           No Match
+Img_39_2_2.jpg Img_41_2_3.jpg        0.410417           No Match
+Img_39_2_2.jpg Img_44_1_5.jpg        0.403125           No Match
+Img_39_2_2.jpg Img_44_2_2.jpg        0.398438           No Match
+Img_39_2_2.jpg Img_45_1_5.jpg        0.399479           No Match
+Img_39_2_2.jpg Img_45_2_5.jpg        0.406250           No Match
+Img_39_2_2.jpg Img_46_1_5.jpg        0.404167           No Match
+Img_39_2_2.jpg Img_46_2_4.jpg        0.406250           No Match
+Img_39_2_2.jpg Img_5_1_5.jpg        0.414063           No Match
+Img_39_2_2.jpg Img_5_2_3.jpg        0.404687           No Match
+Img_39_2_2.jpg Img_6_1_1.jpg        0.400000           No Match
+Img_39_2_2.jpg Img_6_2_5.jpg        0.406771           No Match
+Img_39_2_2.jpg Img_8_1_1.jpg        0.407813           No Match
+Img_39_2_2.jpg Img_8_2_1.jpg        0.400000           No Match
+Img_3_1_5.jpg Img_3_2_3.jpg        0.227083              Match
+Img_3_1_5.jpg Img_41_1_5.jpg        0.332292              Match
+Img_3_1_5.jpg Img_41_2_3.jpg        0.335417              Match
+Img_3_1_5.jpg Img_44_1_5.jpg        0.328125              Match
+Img_3_1_5.jpg Img_44_2_2.jpg        0.344271              Match
+Img_3_1_5.jpg Img_45_1_5.jpg        0.370312              Match
+Img_3_1_5.jpg Img_45_2_5.jpg        0.372917              Match
+Img_3_1_5.jpg Img_46_1_5.jpg        0.367708              Match
+Img_3_1_5.jpg Img_46_2_4.jpg        0.348958              Match
+Img_3_1_5.jpg Img_5_1_5.jpg        0.334896              Match
+Img_3_1_5.jpg Img_5_2_3.jpg        0.349479              Match
+Img_3_1_5.jpg Img_6_1_1.jpg        0.351042              Match
+Img_3_1_5.jpg Img_6_2_5.jpg        0.345313              Match
+Img_3_1_5.jpg Img_8_1_1.jpg        0.333854              Match
+Img_3_1_5.jpg Img_8_2_1.jpg        0.332292              Match
+Img_3_2_3.jpg Img_41_1_5.jpg        0.339583              Match
+Img_3_2_3.jpg Img_41_2_3.jpg        0.333333              Match
+Img_3_2_3.jpg Img_44_1_5.jpg        0.340625              Match
+Img_3_2_3.jpg Img_44_2_2.jpg        0.356771              Match
+Img_3_2_3.jpg Img_45_1_5.jpg        0.371354              Match
+Img_3_2_3.jpg Img_45_2_5.jpg        0.373958              Match
+Img_3_2_3.jpg Img_46_1_5.jpg        0.367708              Match
+Img_3_2_3.jpg Img_46_2_4.jpg        0.363542              Match
+Img_3_2_3.jpg Img_5_1_5.jpg        0.334896              Match
+Img_3_2_3.jpg Img_5_2_3.jpg        0.349479              Match
+Img_3_2_3.jpg Img_6_1_1.jpg        0.343750              Match
+Img_3_2_3.jpg Img_6_2_5.jpg        0.347396              Match
+Img_3_2_3.jpg Img_8_1_1.jpg        0.350521              Match
+Img_3_2_3.jpg Img_8_2_1.jpg        0.329167              Match
+Img_41_1_5.jpg Img_41_2_3.jpg        0.304167              Match
+Img_41_1_5.jpg Img_44_1_5.jpg        0.356250              Match
+Img_41_1_5.jpg Img_44_2_2.jpg        0.365104              Match
+Img_41_1_5.jpg Img_45_1_5.jpg        0.369271              Match
+Img_41_1_5.jpg Img_45_2_5.jpg        0.379167              Match
+Img_41_1_5.jpg Img_46_1_5.jpg        0.368750              Match
+Img_41_1_5.jpg Img_46_2_4.jpg        0.360417              Match
+Img_41_1_5.jpg Img_5_1_5.jpg        0.356771              Match
+Img_41_1_5.jpg Img_5_2_3.jpg        0.369271              Match
+Img_41_1_5.jpg Img_6_1_1.jpg        0.346875              Match
+Img_41_1_5.jpg Img_6_2_5.jpg        0.356771              Match
+Img_41_1_5.jpg Img_8_1_1.jpg        0.353646              Match
+Img_41_1_5.jpg Img_8_2_1.jpg        0.342708              Match
+Img_41_2_3.jpg Img_44_1_5.jpg        0.339583              Match
+Img_41_2_3.jpg Img_44_2_2.jpg        0.365104              Match
+Img_41_2_3.jpg Img_45_1_5.jpg        0.352604              Match
+Img_41_2_3.jpg Img_45_2_5.jpg        0.348958              Match
+Img_41_2_3.jpg Img_46_1_5.jpg        0.371875              Match
+Img_41_2_3.jpg Img_46_2_4.jpg        0.361458              Match
+Img_41_2_3.jpg Img_5_1_5.jpg        0.365104              Match
+Img_41_2_3.jpg Img_5_2_3.jpg        0.367188              Match
+Img_41_2_3.jpg Img_6_1_1.jpg        0.341667              Match
+Img_41_2_3.jpg Img_6_2_5.jpg        0.352604              Match
+Img_41_2_3.jpg Img_8_1_1.jpg        0.360938              Match
+Img_41_2_3.jpg Img_8_2_1.jpg        0.338542              Match
+Img_44_1_5.jpg Img_44_2_2.jpg        0.315104              Match
+Img_44_1_5.jpg Img_45_1_5.jpg        0.390104           No Match
+Img_44_1_5.jpg Img_45_2_5.jpg        0.396875           No Match
+Img_44_1_5.jpg Img_46_1_5.jpg        0.385417              Match
+Img_44_1_5.jpg Img_46_2_4.jpg        0.366667              Match
+Img_44_1_5.jpg Img_5_1_5.jpg        0.372396              Match
+Img_44_1_5.jpg Img_5_2_3.jpg        0.376563              Match
+Img_44_1_5.jpg Img_6_1_1.jpg        0.360417              Match
+Img_44_1_5.jpg Img_6_2_5.jpg        0.371354              Match
+Img_44_1_5.jpg Img_8_1_1.jpg        0.356771              Match
+Img_44_1_5.jpg Img_8_2_1.jpg        0.357292              Match
+Img_44_2_2.jpg Img_45_1_5.jpg        0.393750           No Match
+Img_44_2_2.jpg Img_45_2_5.jpg        0.384896              Match
+Img_44_2_2.jpg Img_46_1_5.jpg        0.389062              Match
+Img_44_2_2.jpg Img_46_2_4.jpg        0.370312              Match
+Img_44_2_2.jpg Img_5_1_5.jpg        0.354167              Match
+Img_44_2_2.jpg Img_5_2_3.jpg        0.363542              Match
+Img_44_2_2.jpg Img_6_1_1.jpg        0.361979              Match
+Img_44_2_2.jpg Img_6_2_5.jpg        0.361458              Match
+Img_44_2_2.jpg Img_8_1_1.jpg        0.364583              Match
+Img_44_2_2.jpg Img_8_2_1.jpg        0.354687              Match
+Img_45_1_5.jpg Img_45_2_5.jpg        0.331771              Match
+Img_45_1_5.jpg Img_46_1_5.jpg        0.370312              Match
+Img_45_1_5.jpg Img_46_2_4.jpg        0.378646              Match
+Img_45_1_5.jpg Img_5_1_5.jpg        0.390625           No Match
+Img_45_1_5.jpg Img_5_2_3.jpg        0.388542              Match
+Img_45_1_5.jpg Img_6_1_1.jpg        0.364063              Match
+Img_45_1_5.jpg Img_6_2_5.jpg        0.375000              Match
+Img_45_1_5.jpg Img_8_1_1.jpg        0.383333              Match
+Img_45_1_5.jpg Img_8_2_1.jpg        0.376563              Match
+Img_45_2_5.jpg Img_46_1_5.jpg        0.387500              Match
+Img_45_2_5.jpg Img_46_2_4.jpg        0.378125              Match
+Img_45_2_5.jpg Img_5_1_5.jpg        0.385937              Match
+Img_45_2_5.jpg Img_5_2_3.jpg        0.391146           No Match
+Img_45_2_5.jpg Img_6_1_1.jpg        0.368750              Match
+Img_45_2_5.jpg Img_6_2_5.jpg        0.370312              Match
+Img_45_2_5.jpg Img_8_1_1.jpg        0.367188              Match
+Img_45_2_5.jpg Img_8_2_1.jpg        0.379167              Match
+Img_46_1_5.jpg Img_46_2_4.jpg        0.360417              Match
+Img_46_1_5.jpg Img_5_1_5.jpg        0.385937              Match
+Img_46_1_5.jpg Img_5_2_3.jpg        0.383854              Match
+Img_46_1_5.jpg Img_6_1_1.jpg        0.344792              Match
+Img_46_1_5.jpg Img_6_2_5.jpg        0.364063              Match
+Img_46_1_5.jpg Img_8_1_1.jpg        0.374479              Match
+Img_46_1_5.jpg Img_8_2_1.jpg        0.363542              Match
+Img_46_2_4.jpg Img_5_1_5.jpg        0.375521              Match
+Img_46_2_4.jpg Img_5_2_3.jpg        0.377604              Match
+Img_46_2_4.jpg Img_6_1_1.jpg        0.377083              Match
+Img_46_2_4.jpg Img_6_2_5.jpg        0.372396              Match
+Img_46_2_4.jpg Img_8_1_1.jpg        0.377604              Match
+Img_46_2_4.jpg Img_8_2_1.jpg        0.365625              Match
+Img_5_1_5.jpg Img_5_2_3.jpg        0.326042              Match
+Img_5_1_5.jpg Img_6_1_1.jpg        0.368229              Match
+Img_5_1_5.jpg Img_6_2_5.jpg        0.375000              Match
+Img_5_1_5.jpg Img_8_1_1.jpg        0.357292              Match
+Img_5_1_5.jpg Img_8_2_1.jpg        0.367188              Match
+Img_5_2_3.jpg Img_6_1_1.jpg        0.358854              Match
+Img_5_2_3.jpg Img_6_2_5.jpg        0.375000              Match
+Img_5_2_3.jpg Img_8_1_1.jpg        0.352083              Match
+Img_5_2_3.jpg Img_8_2_1.jpg        0.359896              Match
+Img_6_1_1.jpg Img_6_2_5.jpg        0.320313              Match
+Img_6_1_1.jpg Img_8_1_1.jpg        0.361979              Match
+Img_6_1_1.jpg Img_8_2_1.jpg        0.355208              Match
+Img_6_2_5.jpg Img_8_1_1.jpg        0.377083              Match
+Img_6_2_5.jpg Img_8_2_1.jpg        0.363021              Match
+Img_8_1_1.jpg Img_8_2_1.jpg        0.271354              Match
+---------------------------------------------------------------------------
+  Img1         Img2                 HD                   Status
+Img_16_1_5.jpg Img_16_2_1.jpg        0.336458              Match
+Img_16_1_5.jpg Img_19_1_5.jpg        0.406771              Match
+Img_16_1_5.jpg Img_19_2_4.jpg        0.407813              Match
+Img_16_1_5.jpg Img_1_1_5.jpg        0.425000           No Match
+Img_16_1_5.jpg Img_1_2_4.jpg        0.407813              Match
+Img_16_1_5.jpg Img_22_1_5.jpg        0.414063              Match
+Img_16_1_5.jpg Img_22_2_2.jpg        0.401042              Match
+Img_16_1_5.jpg Img_24_1_5.jpg        0.404687              Match
+Img_16_1_5.jpg Img_24_2_3.jpg        0.401042              Match
+Img_16_1_5.jpg Img_27_1_5.jpg        0.394792              Match
+Img_16_1_5.jpg Img_27_2_3.jpg        0.403646              Match
+Img_16_1_5.jpg Img_2_1_1.jpg        0.369271              Match
+Img_16_1_5.jpg Img_2_2_2.jpg        0.397396              Match
+Img_16_1_5.jpg Img_32_1_5.jpg        0.398958              Match
+Img_16_1_5.jpg Img_32_2_4.jpg        0.392188              Match
+Img_16_1_5.jpg Img_39_1_2.jpg        0.416667              Match
+Img_16_1_5.jpg Img_39_2_2.jpg        0.415625              Match
+Img_16_1_5.jpg Img_3_1_5.jpg        0.407292              Match
+Img_16_1_5.jpg Img_3_2_3.jpg        0.408333              Match
+Img_16_1_5.jpg Img_41_1_5.jpg        0.400000              Match
+Img_16_1_5.jpg Img_41_2_3.jpg        0.408333              Match
+Img_16_1_5.jpg Img_44_1_5.jpg        0.405208              Match
+Img_16_1_5.jpg Img_44_2_2.jpg        0.409896              Match
+Img_16_1_5.jpg Img_45_1_5.jpg        0.400521              Match
+Img_16_1_5.jpg Img_45_2_5.jpg        0.397917              Match
+Img_16_1_5.jpg Img_46_1_5.jpg        0.398958              Match
+Img_16_1_5.jpg Img_46_2_4.jpg        0.398958              Match
+Img_16_1_5.jpg Img_5_1_5.jpg        0.403646              Match
+Img_16_1_5.jpg Img_5_2_3.jpg        0.403646              Match
+Img_16_1_5.jpg Img_6_1_1.jpg        0.392708              Match
+Img_16_1_5.jpg Img_6_2_5.jpg        0.405729              Match
+Img_16_1_5.jpg Img_8_1_1.jpg        0.419271              Match
+Img_16_1_5.jpg Img_8_2_1.jpg        0.397917              Match
+Img_16_2_1.jpg Img_19_1_5.jpg        0.393229              Match
+Img_16_2_1.jpg Img_19_2_4.jpg        0.383854              Match
+Img_16_2_1.jpg Img_1_1_5.jpg        0.410417              Match
+Img_16_2_1.jpg Img_1_2_4.jpg        0.377604              Match
+Img_16_2_1.jpg Img_22_1_5.jpg        0.389062              Match
+Img_16_2_1.jpg Img_22_2_2.jpg        0.395833              Match
+Img_16_2_1.jpg Img_24_1_5.jpg        0.401562              Match
+Img_16_2_1.jpg Img_24_2_3.jpg        0.379167              Match
+Img_16_2_1.jpg Img_27_1_5.jpg        0.402083              Match
+Img_16_2_1.jpg Img_27_2_3.jpg        0.397396              Match
+Img_16_2_1.jpg Img_2_1_1.jpg        0.378646              Match
+Img_16_2_1.jpg Img_2_2_2.jpg        0.383854              Match
+Img_16_2_1.jpg Img_32_1_5.jpg        0.375000              Match
+Img_16_2_1.jpg Img_32_2_4.jpg        0.386979              Match
+Img_16_2_1.jpg Img_39_1_2.jpg        0.420833              Match
+Img_16_2_1.jpg Img_39_2_2.jpg        0.412500              Match
+Img_16_2_1.jpg Img_3_1_5.jpg        0.367708              Match
+Img_16_2_1.jpg Img_3_2_3.jpg        0.380208              Match
+Img_16_2_1.jpg Img_41_1_5.jpg        0.387500              Match
+Img_16_2_1.jpg Img_41_2_3.jpg        0.393750              Match
+Img_16_2_1.jpg Img_44_1_5.jpg        0.408333              Match
+Img_16_2_1.jpg Img_44_2_2.jpg        0.389062              Match
+Img_16_2_1.jpg Img_45_1_5.jpg        0.399479              Match
+Img_16_2_1.jpg Img_45_2_5.jpg        0.391667              Match
+Img_16_2_1.jpg Img_46_1_5.jpg        0.383333              Match
+Img_16_2_1.jpg Img_46_2_4.jpg        0.391667              Match
+Img_16_2_1.jpg Img_5_1_5.jpg        0.380729              Match
+Img_16_2_1.jpg Img_5_2_3.jpg        0.373437              Match
+Img_16_2_1.jpg Img_6_1_1.jpg        0.392708              Match
+Img_16_2_1.jpg Img_6_2_5.jpg        0.382813              Match
+Img_16_2_1.jpg Img_8_1_1.jpg        0.390104              Match
+Img_16_2_1.jpg Img_8_2_1.jpg        0.377083              Match
+Img_19_1_5.jpg Img_19_2_4.jpg        0.281250              Match
+Img_19_1_5.jpg Img_1_1_5.jpg        0.382813              Match
+Img_19_1_5.jpg Img_1_2_4.jpg        0.361458              Match
+Img_19_1_5.jpg Img_22_1_5.jpg        0.385417              Match
+Img_19_1_5.jpg Img_22_2_2.jpg        0.384896              Match
+Img_19_1_5.jpg Img_24_1_5.jpg        0.397917              Match
+Img_19_1_5.jpg Img_24_2_3.jpg        0.379688              Match
+Img_19_1_5.jpg Img_27_1_5.jpg        0.392188              Match
+Img_19_1_5.jpg Img_27_2_3.jpg        0.401042              Match
+Img_19_1_5.jpg Img_2_1_1.jpg        0.392708              Match
+Img_19_1_5.jpg Img_2_2_2.jpg        0.397917              Match
+Img_19_1_5.jpg Img_32_1_5.jpg        0.381771              Match
+Img_19_1_5.jpg Img_32_2_4.jpg        0.389583              Match
+Img_19_1_5.jpg Img_39_1_2.jpg        0.413021              Match
+Img_19_1_5.jpg Img_39_2_2.jpg        0.421354              Match
+Img_19_1_5.jpg Img_3_1_5.jpg        0.361979              Match
+Img_19_1_5.jpg Img_3_2_3.jpg        0.359896              Match
+Img_19_1_5.jpg Img_41_1_5.jpg        0.361979              Match
+Img_19_1_5.jpg Img_41_2_3.jpg        0.358854              Match
+Img_19_1_5.jpg Img_44_1_5.jpg        0.382813              Match
+Img_19_1_5.jpg Img_44_2_2.jpg        0.376042              Match
+Img_19_1_5.jpg Img_45_1_5.jpg        0.388542              Match
+Img_19_1_5.jpg Img_45_2_5.jpg        0.394271              Match
+Img_19_1_5.jpg Img_46_1_5.jpg        0.385937              Match
+Img_19_1_5.jpg Img_46_2_4.jpg        0.388021              Match
+Img_19_1_5.jpg Img_5_1_5.jpg        0.379167              Match
+Img_19_1_5.jpg Img_5_2_3.jpg        0.388542              Match
+Img_19_1_5.jpg Img_6_1_1.jpg        0.367188              Match
+Img_19_1_5.jpg Img_6_2_5.jpg        0.361458              Match
+Img_19_1_5.jpg Img_8_1_1.jpg        0.366667              Match
+Img_19_1_5.jpg Img_8_2_1.jpg        0.353646              Match
+Img_19_2_4.jpg Img_1_1_5.jpg        0.397396              Match
+Img_19_2_4.jpg Img_1_2_4.jpg        0.390625              Match
+Img_19_2_4.jpg Img_22_1_5.jpg        0.364583              Match
+Img_19_2_4.jpg Img_22_2_2.jpg        0.394271              Match
+Img_19_2_4.jpg Img_24_1_5.jpg        0.390625              Match
+Img_19_2_4.jpg Img_24_2_3.jpg        0.377604              Match
+Img_19_2_4.jpg Img_27_1_5.jpg        0.373437              Match
+Img_19_2_4.jpg Img_27_2_3.jpg        0.380208              Match
+Img_19_2_4.jpg Img_2_1_1.jpg        0.369792              Match
+Img_19_2_4.jpg Img_2_2_2.jpg        0.372917              Match
+Img_19_2_4.jpg Img_32_1_5.jpg        0.386979              Match
+Img_19_2_4.jpg Img_32_2_4.jpg        0.384375              Match
+Img_19_2_4.jpg Img_39_1_2.jpg        0.413021              Match
+Img_19_2_4.jpg Img_39_2_2.jpg        0.405729              Match
+Img_19_2_4.jpg Img_3_1_5.jpg        0.350521              Match
+Img_19_2_4.jpg Img_3_2_3.jpg        0.355729              Match
+Img_19_2_4.jpg Img_41_1_5.jpg        0.360938              Match
+Img_19_2_4.jpg Img_41_2_3.jpg        0.355729              Match
+Img_19_2_4.jpg Img_44_1_5.jpg        0.371354              Match
+Img_19_2_4.jpg Img_44_2_2.jpg        0.369792              Match
+Img_19_2_4.jpg Img_45_1_5.jpg        0.380208              Match
+Img_19_2_4.jpg Img_45_2_5.jpg        0.382813              Match
+Img_19_2_4.jpg Img_46_1_5.jpg        0.360938              Match
+Img_19_2_4.jpg Img_46_2_4.jpg        0.370312              Match
+Img_19_2_4.jpg Img_5_1_5.jpg        0.373958              Match
+Img_19_2_4.jpg Img_5_2_3.jpg        0.358333              Match
+Img_19_2_4.jpg Img_6_1_1.jpg        0.356771              Match
+Img_19_2_4.jpg Img_6_2_5.jpg        0.372917              Match
+Img_19_2_4.jpg Img_8_1_1.jpg        0.361458              Match
+Img_19_2_4.jpg Img_8_2_1.jpg        0.350521              Match
+Img_1_1_5.jpg Img_1_2_4.jpg        0.298438              Match
+Img_1_1_5.jpg Img_22_1_5.jpg        0.406771              Match
+Img_1_1_5.jpg Img_22_2_2.jpg        0.390625              Match
+Img_1_1_5.jpg Img_24_1_5.jpg        0.392188              Match
+Img_1_1_5.jpg Img_24_2_3.jpg        0.390625              Match
+Img_1_1_5.jpg Img_27_1_5.jpg        0.381250              Match
+Img_1_1_5.jpg Img_27_2_3.jpg        0.391146              Match
+Img_1_1_5.jpg Img_2_1_1.jpg        0.400521              Match
+Img_1_1_5.jpg Img_2_2_2.jpg        0.413021              Match
+Img_1_1_5.jpg Img_32_1_5.jpg        0.398958              Match
+Img_1_1_5.jpg Img_32_2_4.jpg        0.407813              Match
+Img_1_1_5.jpg Img_39_1_2.jpg        0.423958              Match
+Img_1_1_5.jpg Img_39_2_2.jpg        0.396875              Match
+Img_1_1_5.jpg Img_3_1_5.jpg        0.381250              Match
+Img_1_1_5.jpg Img_3_2_3.jpg        0.388542              Match
+Img_1_1_5.jpg Img_41_1_5.jpg        0.392708              Match
+Img_1_1_5.jpg Img_41_2_3.jpg        0.380208              Match
+Img_1_1_5.jpg Img_44_1_5.jpg        0.383333              Match
+Img_1_1_5.jpg Img_44_2_2.jpg        0.401562              Match
+Img_1_1_5.jpg Img_45_1_5.jpg        0.404687              Match
+Img_1_1_5.jpg Img_45_2_5.jpg        0.386458              Match
+Img_1_1_5.jpg Img_46_1_5.jpg        0.388542              Match
+Img_1_1_5.jpg Img_46_2_4.jpg        0.408333              Match
+Img_1_1_5.jpg Img_5_1_5.jpg        0.392188              Match
+Img_1_1_5.jpg Img_5_2_3.jpg        0.395313              Match
+Img_1_1_5.jpg Img_6_1_1.jpg        0.394792              Match
+Img_1_1_5.jpg Img_6_2_5.jpg        0.398438              Match
+Img_1_1_5.jpg Img_8_1_1.jpg        0.384896              Match
+Img_1_1_5.jpg Img_8_2_1.jpg        0.406250              Match
+Img_1_2_4.jpg Img_22_1_5.jpg        0.395833              Match
+Img_1_2_4.jpg Img_22_2_2.jpg        0.393229              Match
+Img_1_2_4.jpg Img_24_1_5.jpg        0.382292              Match
+Img_1_2_4.jpg Img_24_2_3.jpg        0.386979              Match
+Img_1_2_4.jpg Img_27_1_5.jpg        0.371354              Match
+Img_1_2_4.jpg Img_27_2_3.jpg        0.397917              Match
+Img_1_2_4.jpg Img_2_1_1.jpg        0.394792              Match
+Img_1_2_4.jpg Img_2_2_2.jpg        0.405208              Match
+Img_1_2_4.jpg Img_32_1_5.jpg        0.404687              Match
+Img_1_2_4.jpg Img_32_2_4.jpg        0.366667              Match
+Img_1_2_4.jpg Img_39_1_2.jpg        0.414063              Match
+Img_1_2_4.jpg Img_39_2_2.jpg        0.407813              Match
+Img_1_2_4.jpg Img_3_1_5.jpg        0.375521              Match
+Img_1_2_4.jpg Img_3_2_3.jpg        0.380729              Match
+Img_1_2_4.jpg Img_41_1_5.jpg        0.385937              Match
+Img_1_2_4.jpg Img_41_2_3.jpg        0.381771              Match
+Img_1_2_4.jpg Img_44_1_5.jpg        0.377604              Match
+Img_1_2_4.jpg Img_44_2_2.jpg        0.381250              Match
+Img_1_2_4.jpg Img_45_1_5.jpg        0.393750              Match
+Img_1_2_4.jpg Img_45_2_5.jpg        0.391146              Match
+Img_1_2_4.jpg Img_46_1_5.jpg        0.401562              Match
+Img_1_2_4.jpg Img_46_2_4.jpg        0.390104              Match
+Img_1_2_4.jpg Img_5_1_5.jpg        0.365625              Match
+Img_1_2_4.jpg Img_5_2_3.jpg        0.395833              Match
+Img_1_2_4.jpg Img_6_1_1.jpg        0.386979              Match
+Img_1_2_4.jpg Img_6_2_5.jpg        0.379167              Match
+Img_1_2_4.jpg Img_8_1_1.jpg        0.381250              Match
+Img_1_2_4.jpg Img_8_2_1.jpg        0.388021              Match
+Img_22_1_5.jpg Img_22_2_2.jpg        0.392188              Match
+Img_22_1_5.jpg Img_24_1_5.jpg        0.378125              Match
+Img_22_1_5.jpg Img_24_2_3.jpg        0.395313              Match
+Img_22_1_5.jpg Img_27_1_5.jpg        0.384896              Match
+Img_22_1_5.jpg Img_27_2_3.jpg        0.396875              Match
+Img_22_1_5.jpg Img_2_1_1.jpg        0.398958              Match
+Img_22_1_5.jpg Img_2_2_2.jpg        0.377083              Match
+Img_22_1_5.jpg Img_32_1_5.jpg        0.380729              Match
+Img_22_1_5.jpg Img_32_2_4.jpg        0.387500              Match
+Img_22_1_5.jpg Img_39_1_2.jpg        0.419271              Match
+Img_22_1_5.jpg Img_39_2_2.jpg        0.407813              Match
+Img_22_1_5.jpg Img_3_1_5.jpg        0.382813              Match
+Img_22_1_5.jpg Img_3_2_3.jpg        0.380729              Match
+Img_22_1_5.jpg Img_41_1_5.jpg        0.388021              Match
+Img_22_1_5.jpg Img_41_2_3.jpg        0.389062              Match
+Img_22_1_5.jpg Img_44_1_5.jpg        0.379688              Match
+Img_22_1_5.jpg Img_44_2_2.jpg        0.395833              Match
+Img_22_1_5.jpg Img_45_1_5.jpg        0.378125              Match
+Img_22_1_5.jpg Img_45_2_5.jpg        0.379688              Match
+Img_22_1_5.jpg Img_46_1_5.jpg        0.383854              Match
+Img_22_1_5.jpg Img_46_2_4.jpg        0.399479              Match
+Img_22_1_5.jpg Img_5_1_5.jpg        0.370833              Match
+Img_22_1_5.jpg Img_5_2_3.jpg        0.383333              Match
+Img_22_1_5.jpg Img_6_1_1.jpg        0.383854              Match
+Img_22_1_5.jpg Img_6_2_5.jpg        0.385417              Match
+Img_22_1_5.jpg Img_8_1_1.jpg        0.391667              Match
+Img_22_1_5.jpg Img_8_2_1.jpg        0.388021              Match
+Img_22_2_2.jpg Img_24_1_5.jpg        0.405729              Match
+Img_22_2_2.jpg Img_24_2_3.jpg        0.370833              Match
+Img_22_2_2.jpg Img_27_1_5.jpg        0.394792              Match
+Img_22_2_2.jpg Img_27_2_3.jpg        0.368229              Match
+Img_22_2_2.jpg Img_2_1_1.jpg        0.411979              Match
+Img_22_2_2.jpg Img_2_2_2.jpg        0.386979              Match
+Img_22_2_2.jpg Img_32_1_5.jpg        0.394792              Match
+Img_22_2_2.jpg Img_32_2_4.jpg        0.399479              Match
+Img_22_2_2.jpg Img_39_1_2.jpg        0.421875              Match
+Img_22_2_2.jpg Img_39_2_2.jpg        0.393750              Match
+Img_22_2_2.jpg Img_3_1_5.jpg        0.393750              Match
+Img_22_2_2.jpg Img_3_2_3.jpg        0.389583              Match
+Img_22_2_2.jpg Img_41_1_5.jpg        0.384375              Match
+Img_22_2_2.jpg Img_41_2_3.jpg        0.380208              Match
+Img_22_2_2.jpg Img_44_1_5.jpg        0.391667              Match
+Img_22_2_2.jpg Img_44_2_2.jpg        0.398438              Match
+Img_22_2_2.jpg Img_45_1_5.jpg        0.399479              Match
+Img_22_2_2.jpg Img_45_2_5.jpg        0.398958              Match
+Img_22_2_2.jpg Img_46_1_5.jpg        0.387500              Match
+Img_22_2_2.jpg Img_46_2_4.jpg        0.396875              Match
+Img_22_2_2.jpg Img_5_1_5.jpg        0.390104              Match
+Img_22_2_2.jpg Img_5_2_3.jpg        0.391146              Match
+Img_22_2_2.jpg Img_6_1_1.jpg        0.384375              Match
+Img_22_2_2.jpg Img_6_2_5.jpg        0.371354              Match
+Img_22_2_2.jpg Img_8_1_1.jpg        0.394271              Match
+Img_22_2_2.jpg Img_8_2_1.jpg        0.392708              Match
+Img_24_1_5.jpg Img_24_2_3.jpg        0.394271              Match
+Img_24_1_5.jpg Img_27_1_5.jpg        0.393229              Match
+Img_24_1_5.jpg Img_27_2_3.jpg        0.411458              Match
+Img_24_1_5.jpg Img_2_1_1.jpg        0.392708              Match
+Img_24_1_5.jpg Img_2_2_2.jpg        0.389583              Match
+Img_24_1_5.jpg Img_32_1_5.jpg        0.400521              Match
+Img_24_1_5.jpg Img_32_2_4.jpg        0.396875              Match
+Img_24_1_5.jpg Img_39_1_2.jpg        0.410938              Match
+Img_24_1_5.jpg Img_39_2_2.jpg        0.416146              Match
+Img_24_1_5.jpg Img_3_1_5.jpg        0.381771              Match
+Img_24_1_5.jpg Img_3_2_3.jpg        0.385937              Match
+Img_24_1_5.jpg Img_41_1_5.jpg        0.391146              Match
+Img_24_1_5.jpg Img_41_2_3.jpg        0.397396              Match
+Img_24_1_5.jpg Img_44_1_5.jpg        0.392188              Match
+Img_24_1_5.jpg Img_44_2_2.jpg        0.392708              Match
+Img_24_1_5.jpg Img_45_1_5.jpg        0.395833              Match
+Img_24_1_5.jpg Img_45_2_5.jpg        0.405729              Match
+Img_24_1_5.jpg Img_46_1_5.jpg        0.400521              Match
+Img_24_1_5.jpg Img_46_2_4.jpg        0.406771              Match
+Img_24_1_5.jpg Img_5_1_5.jpg        0.384375              Match
+Img_24_1_5.jpg Img_5_2_3.jpg        0.386458              Match
+Img_24_1_5.jpg Img_6_1_1.jpg        0.385937              Match
+Img_24_1_5.jpg Img_6_2_5.jpg        0.379167              Match
+Img_24_1_5.jpg Img_8_1_1.jpg        0.387500              Match
+Img_24_1_5.jpg Img_8_2_1.jpg        0.400521              Match
+Img_24_2_3.jpg Img_27_1_5.jpg        0.389583              Match
+Img_24_2_3.jpg Img_27_2_3.jpg        0.370312              Match
+Img_24_2_3.jpg Img_2_1_1.jpg        0.390104              Match
+Img_24_2_3.jpg Img_2_2_2.jpg        0.395313              Match
+Img_24_2_3.jpg Img_32_1_5.jpg        0.392708              Match
+Img_24_2_3.jpg Img_32_2_4.jpg        0.381771              Match
+Img_24_2_3.jpg Img_39_1_2.jpg        0.414583              Match
+Img_24_2_3.jpg Img_39_2_2.jpg        0.377083              Match
+Img_24_2_3.jpg Img_3_1_5.jpg        0.376042              Match
+Img_24_2_3.jpg Img_3_2_3.jpg        0.373958              Match
+Img_24_2_3.jpg Img_41_1_5.jpg        0.378125              Match
+Img_24_2_3.jpg Img_41_2_3.jpg        0.371875              Match
+Img_24_2_3.jpg Img_44_1_5.jpg        0.385417              Match
+Img_24_2_3.jpg Img_44_2_2.jpg        0.382813              Match
+Img_24_2_3.jpg Img_45_1_5.jpg        0.389062              Match
+Img_24_2_3.jpg Img_45_2_5.jpg        0.385417              Match
+Img_24_2_3.jpg Img_46_1_5.jpg        0.397917              Match
+Img_24_2_3.jpg Img_46_2_4.jpg        0.388542              Match
+Img_24_2_3.jpg Img_5_1_5.jpg        0.375521              Match
+Img_24_2_3.jpg Img_5_2_3.jpg        0.392188              Match
+Img_24_2_3.jpg Img_6_1_1.jpg        0.373958              Match
+Img_24_2_3.jpg Img_6_2_5.jpg        0.363021              Match
+Img_24_2_3.jpg Img_8_1_1.jpg        0.369271              Match
+Img_24_2_3.jpg Img_8_2_1.jpg        0.375000              Match
+Img_27_1_5.jpg Img_27_2_3.jpg        0.394271              Match
+Img_27_1_5.jpg Img_2_1_1.jpg        0.407813              Match
+Img_27_1_5.jpg Img_2_2_2.jpg        0.402604              Match
+Img_27_1_5.jpg Img_32_1_5.jpg        0.383333              Match
+Img_27_1_5.jpg Img_32_2_4.jpg        0.391146              Match
+Img_27_1_5.jpg Img_39_1_2.jpg        0.418750              Match
+Img_27_1_5.jpg Img_39_2_2.jpg        0.418750              Match
+Img_27_1_5.jpg Img_3_1_5.jpg        0.353125              Match
+Img_27_1_5.jpg Img_3_2_3.jpg        0.360417              Match
+Img_27_1_5.jpg Img_41_1_5.jpg        0.376042              Match
+Img_27_1_5.jpg Img_41_2_3.jpg        0.375000              Match
+Img_27_1_5.jpg Img_44_1_5.jpg        0.375000              Match
+Img_27_1_5.jpg Img_44_2_2.jpg        0.382813              Match
+Img_27_1_5.jpg Img_45_1_5.jpg        0.393229              Match
+Img_27_1_5.jpg Img_45_2_5.jpg        0.384375              Match
+Img_27_1_5.jpg Img_46_1_5.jpg        0.383333              Match
+Img_27_1_5.jpg Img_46_2_4.jpg        0.379167              Match
+Img_27_1_5.jpg Img_5_1_5.jpg        0.377604              Match
+Img_27_1_5.jpg Img_5_2_3.jpg        0.375521              Match
+Img_27_1_5.jpg Img_6_1_1.jpg        0.379167              Match
+Img_27_1_5.jpg Img_6_2_5.jpg        0.378646              Match
+Img_27_1_5.jpg Img_8_1_1.jpg        0.368229              Match
+Img_27_1_5.jpg Img_8_2_1.jpg        0.367708              Match
+Img_27_2_3.jpg Img_2_1_1.jpg        0.401042              Match
+Img_27_2_3.jpg Img_2_2_2.jpg        0.405208              Match
+Img_27_2_3.jpg Img_32_1_5.jpg        0.404687              Match
+Img_27_2_3.jpg Img_32_2_4.jpg        0.395833              Match
+Img_27_2_3.jpg Img_39_1_2.jpg        0.409896              Match
+Img_27_2_3.jpg Img_39_2_2.jpg        0.394271              Match
+Img_27_2_3.jpg Img_3_1_5.jpg        0.370312              Match
+Img_27_2_3.jpg Img_3_2_3.jpg        0.383854              Match
+Img_27_2_3.jpg Img_41_1_5.jpg        0.372396              Match
+Img_27_2_3.jpg Img_41_2_3.jpg        0.363021              Match
+Img_27_2_3.jpg Img_44_1_5.jpg        0.389062              Match
+Img_27_2_3.jpg Img_44_2_2.jpg        0.393750              Match
+Img_27_2_3.jpg Img_45_1_5.jpg        0.388542              Match
+Img_27_2_3.jpg Img_45_2_5.jpg        0.383854              Match
+Img_27_2_3.jpg Img_46_1_5.jpg        0.393229              Match
+Img_27_2_3.jpg Img_46_2_4.jpg        0.397396              Match
+Img_27_2_3.jpg Img_5_1_5.jpg        0.398958              Match
+Img_27_2_3.jpg Img_5_2_3.jpg        0.397917              Match
+Img_27_2_3.jpg Img_6_1_1.jpg        0.377604              Match
+Img_27_2_3.jpg Img_6_2_5.jpg        0.392708              Match
+Img_27_2_3.jpg Img_8_1_1.jpg        0.388542              Match
+Img_27_2_3.jpg Img_8_2_1.jpg        0.386979              Match
+Img_2_1_1.jpg Img_2_2_2.jpg        0.322917              Match
+Img_2_1_1.jpg Img_32_1_5.jpg        0.407813              Match
+Img_2_1_1.jpg Img_32_2_4.jpg        0.402083              Match
+Img_2_1_1.jpg Img_39_1_2.jpg        0.422396              Match
+Img_2_1_1.jpg Img_39_2_2.jpg        0.426563           No Match
+Img_2_1_1.jpg Img_3_1_5.jpg        0.377604              Match
+Img_2_1_1.jpg Img_3_2_3.jpg        0.380729              Match
+Img_2_1_1.jpg Img_41_1_5.jpg        0.388021              Match
+Img_2_1_1.jpg Img_41_2_3.jpg        0.383854              Match
+Img_2_1_1.jpg Img_44_1_5.jpg        0.399479              Match
+Img_2_1_1.jpg Img_44_2_2.jpg        0.382292              Match
+Img_2_1_1.jpg Img_45_1_5.jpg        0.391667              Match
+Img_2_1_1.jpg Img_45_2_5.jpg        0.397396              Match
+Img_2_1_1.jpg Img_46_1_5.jpg        0.394271              Match
+Img_2_1_1.jpg Img_46_2_4.jpg        0.386979              Match
+Img_2_1_1.jpg Img_5_1_5.jpg        0.378125              Match
+Img_2_1_1.jpg Img_5_2_3.jpg        0.380208              Match
+Img_2_1_1.jpg Img_6_1_1.jpg        0.384896              Match
+Img_2_1_1.jpg Img_6_2_5.jpg        0.377083              Match
+Img_2_1_1.jpg Img_8_1_1.jpg        0.387500              Match
+Img_2_1_1.jpg Img_8_2_1.jpg        0.399479              Match
+Img_2_2_2.jpg Img_32_1_5.jpg        0.404687              Match
+Img_2_2_2.jpg Img_32_2_4.jpg        0.389583              Match
+Img_2_2_2.jpg Img_39_1_2.jpg        0.396354              Match
+Img_2_2_2.jpg Img_39_2_2.jpg        0.413021              Match
+Img_2_2_2.jpg Img_3_1_5.jpg        0.371354              Match
+Img_2_2_2.jpg Img_3_2_3.jpg        0.373437              Match
+Img_2_2_2.jpg Img_41_1_5.jpg        0.385937              Match
+Img_2_2_2.jpg Img_41_2_3.jpg        0.376563              Match
+Img_2_2_2.jpg Img_44_1_5.jpg        0.381771              Match
+Img_2_2_2.jpg Img_44_2_2.jpg        0.367708              Match
+Img_2_2_2.jpg Img_45_1_5.jpg        0.385417              Match
+Img_2_2_2.jpg Img_45_2_5.jpg        0.385937              Match
+Img_2_2_2.jpg Img_46_1_5.jpg        0.375521              Match
+Img_2_2_2.jpg Img_46_2_4.jpg        0.388021              Match
+Img_2_2_2.jpg Img_5_1_5.jpg        0.372917              Match
+Img_2_2_2.jpg Img_5_2_3.jpg        0.386458              Match
+Img_2_2_2.jpg Img_6_1_1.jpg        0.369271              Match
+Img_2_2_2.jpg Img_6_2_5.jpg        0.377083              Match
+Img_2_2_2.jpg Img_8_1_1.jpg        0.380208              Match
+Img_2_2_2.jpg Img_8_2_1.jpg        0.391146              Match
+Img_32_1_5.jpg Img_32_2_4.jpg        0.389062              Match
+Img_32_1_5.jpg Img_39_1_2.jpg        0.408333              Match
+Img_32_1_5.jpg Img_39_2_2.jpg        0.404167              Match
+Img_32_1_5.jpg Img_3_1_5.jpg        0.398958              Match
+Img_32_1_5.jpg Img_3_2_3.jpg        0.395833              Match
+Img_32_1_5.jpg Img_41_1_5.jpg        0.388542              Match
+Img_32_1_5.jpg Img_41_2_3.jpg        0.385417              Match
+Img_32_1_5.jpg Img_44_1_5.jpg        0.385417              Match
+Img_32_1_5.jpg Img_44_2_2.jpg        0.380729              Match
+Img_32_1_5.jpg Img_45_1_5.jpg        0.399479              Match
+Img_32_1_5.jpg Img_45_2_5.jpg        0.388542              Match
+Img_32_1_5.jpg Img_46_1_5.jpg        0.397917              Match
+Img_32_1_5.jpg Img_46_2_4.jpg        0.406250              Match
+Img_32_1_5.jpg Img_5_1_5.jpg        0.390104              Match
+Img_32_1_5.jpg Img_5_2_3.jpg        0.396354              Match
+Img_32_1_5.jpg Img_6_1_1.jpg        0.401042              Match
+Img_32_1_5.jpg Img_6_2_5.jpg        0.397396              Match
+Img_32_1_5.jpg Img_8_1_1.jpg        0.388021              Match
+Img_32_1_5.jpg Img_8_2_1.jpg        0.380208              Match
+Img_32_2_4.jpg Img_39_1_2.jpg        0.400521              Match
+Img_32_2_4.jpg Img_39_2_2.jpg        0.408854              Match
+Img_32_2_4.jpg Img_3_1_5.jpg        0.393229              Match
+Img_32_2_4.jpg Img_3_2_3.jpg        0.390104              Match
+Img_32_2_4.jpg Img_41_1_5.jpg        0.388021              Match
+Img_32_2_4.jpg Img_41_2_3.jpg        0.359896              Match
+Img_32_2_4.jpg Img_44_1_5.jpg        0.396354              Match
+Img_32_2_4.jpg Img_44_2_2.jpg        0.382292              Match
+Img_32_2_4.jpg Img_45_1_5.jpg        0.384375              Match
+Img_32_2_4.jpg Img_45_2_5.jpg        0.396354              Match
+Img_32_2_4.jpg Img_46_1_5.jpg        0.391146              Match
+Img_32_2_4.jpg Img_46_2_4.jpg        0.395313              Match
+Img_32_2_4.jpg Img_5_1_5.jpg        0.395833              Match
+Img_32_2_4.jpg Img_5_2_3.jpg        0.386458              Match
+Img_32_2_4.jpg Img_6_1_1.jpg        0.373437              Match
+Img_32_2_4.jpg Img_6_2_5.jpg        0.389583              Match
+Img_32_2_4.jpg Img_8_1_1.jpg        0.375000              Match
+Img_32_2_4.jpg Img_8_2_1.jpg        0.354687              Match
+Img_39_1_2.jpg Img_39_2_2.jpg        0.426042           No Match
+Img_39_1_2.jpg Img_3_1_5.jpg        0.416667              Match
+Img_39_1_2.jpg Img_3_2_3.jpg        0.422917              Match
+Img_39_1_2.jpg Img_41_1_5.jpg        0.413542              Match
+Img_39_1_2.jpg Img_41_2_3.jpg        0.426042           No Match
+Img_39_1_2.jpg Img_44_1_5.jpg        0.414583              Match
+Img_39_1_2.jpg Img_44_2_2.jpg        0.413021              Match
+Img_39_1_2.jpg Img_45_1_5.jpg        0.414063              Match
+Img_39_1_2.jpg Img_45_2_5.jpg        0.414583              Match
+Img_39_1_2.jpg Img_46_1_5.jpg        0.404167              Match
+Img_39_1_2.jpg Img_46_2_4.jpg        0.413542              Match
+Img_39_1_2.jpg Img_5_1_5.jpg        0.397396              Match
+Img_39_1_2.jpg Img_5_2_3.jpg        0.407813              Match
+Img_39_1_2.jpg Img_6_1_1.jpg        0.410417              Match
+Img_39_1_2.jpg Img_6_2_5.jpg        0.409896              Match
+Img_39_1_2.jpg Img_8_1_1.jpg        0.417187              Match
+Img_39_1_2.jpg Img_8_2_1.jpg        0.415625              Match
+Img_39_2_2.jpg Img_3_1_5.jpg        0.408333              Match
+Img_39_2_2.jpg Img_3_2_3.jpg        0.389583              Match
+Img_39_2_2.jpg Img_41_1_5.jpg        0.397917              Match
+Img_39_2_2.jpg Img_41_2_3.jpg        0.410417              Match
+Img_39_2_2.jpg Img_44_1_5.jpg        0.403125              Match
+Img_39_2_2.jpg Img_44_2_2.jpg        0.398438              Match
+Img_39_2_2.jpg Img_45_1_5.jpg        0.399479              Match
+Img_39_2_2.jpg Img_45_2_5.jpg        0.406250              Match
+Img_39_2_2.jpg Img_46_1_5.jpg        0.404167              Match
+Img_39_2_2.jpg Img_46_2_4.jpg        0.406250              Match
+Img_39_2_2.jpg Img_5_1_5.jpg        0.414063              Match
+Img_39_2_2.jpg Img_5_2_3.jpg        0.404687              Match
+Img_39_2_2.jpg Img_6_1_1.jpg        0.400000              Match
+Img_39_2_2.jpg Img_6_2_5.jpg        0.406771              Match
+Img_39_2_2.jpg Img_8_1_1.jpg        0.407813              Match
+Img_39_2_2.jpg Img_8_2_1.jpg        0.400000              Match
+Img_3_1_5.jpg Img_3_2_3.jpg        0.227083              Match
+Img_3_1_5.jpg Img_41_1_5.jpg        0.332292              Match
+Img_3_1_5.jpg Img_41_2_3.jpg        0.335417              Match
+Img_3_1_5.jpg Img_44_1_5.jpg        0.328125              Match
+Img_3_1_5.jpg Img_44_2_2.jpg        0.344271              Match
+Img_3_1_5.jpg Img_45_1_5.jpg        0.370312              Match
+Img_3_1_5.jpg Img_45_2_5.jpg        0.372917              Match
+Img_3_1_5.jpg Img_46_1_5.jpg        0.367708              Match
+Img_3_1_5.jpg Img_46_2_4.jpg        0.348958              Match
+Img_3_1_5.jpg Img_5_1_5.jpg        0.334896              Match
+Img_3_1_5.jpg Img_5_2_3.jpg        0.349479              Match
+Img_3_1_5.jpg Img_6_1_1.jpg        0.351042              Match
+Img_3_1_5.jpg Img_6_2_5.jpg        0.345313              Match
+Img_3_1_5.jpg Img_8_1_1.jpg        0.333854              Match
+Img_3_1_5.jpg Img_8_2_1.jpg        0.332292              Match
+Img_3_2_3.jpg Img_41_1_5.jpg        0.339583              Match
+Img_3_2_3.jpg Img_41_2_3.jpg        0.333333              Match
+Img_3_2_3.jpg Img_44_1_5.jpg        0.340625              Match
+Img_3_2_3.jpg Img_44_2_2.jpg        0.356771              Match
+Img_3_2_3.jpg Img_45_1_5.jpg        0.371354              Match
+Img_3_2_3.jpg Img_45_2_5.jpg        0.373958              Match
+Img_3_2_3.jpg Img_46_1_5.jpg        0.367708              Match
+Img_3_2_3.jpg Img_46_2_4.jpg        0.363542              Match
+Img_3_2_3.jpg Img_5_1_5.jpg        0.334896              Match
+Img_3_2_3.jpg Img_5_2_3.jpg        0.349479              Match
+Img_3_2_3.jpg Img_6_1_1.jpg        0.343750              Match
+Img_3_2_3.jpg Img_6_2_5.jpg        0.347396              Match
+Img_3_2_3.jpg Img_8_1_1.jpg        0.350521              Match
+Img_3_2_3.jpg Img_8_2_1.jpg        0.329167              Match
+Img_41_1_5.jpg Img_41_2_3.jpg        0.304167              Match
+Img_41_1_5.jpg Img_44_1_5.jpg        0.356250              Match
+Img_41_1_5.jpg Img_44_2_2.jpg        0.365104              Match
+Img_41_1_5.jpg Img_45_1_5.jpg        0.369271              Match
+Img_41_1_5.jpg Img_45_2_5.jpg        0.379167              Match
+Img_41_1_5.jpg Img_46_1_5.jpg        0.368750              Match
+Img_41_1_5.jpg Img_46_2_4.jpg        0.360417              Match
+Img_41_1_5.jpg Img_5_1_5.jpg        0.356771              Match
+Img_41_1_5.jpg Img_5_2_3.jpg        0.369271              Match
+Img_41_1_5.jpg Img_6_1_1.jpg        0.346875              Match
+Img_41_1_5.jpg Img_6_2_5.jpg        0.356771              Match
+Img_41_1_5.jpg Img_8_1_1.jpg        0.353646              Match
+Img_41_1_5.jpg Img_8_2_1.jpg        0.342708              Match
+Img_41_2_3.jpg Img_44_1_5.jpg        0.339583              Match
+Img_41_2_3.jpg Img_44_2_2.jpg        0.365104              Match
+Img_41_2_3.jpg Img_45_1_5.jpg        0.352604              Match
+Img_41_2_3.jpg Img_45_2_5.jpg        0.348958              Match
+Img_41_2_3.jpg Img_46_1_5.jpg        0.371875              Match
+Img_41_2_3.jpg Img_46_2_4.jpg        0.361458              Match
+Img_41_2_3.jpg Img_5_1_5.jpg        0.365104              Match
+Img_41_2_3.jpg Img_5_2_3.jpg        0.367188              Match
+Img_41_2_3.jpg Img_6_1_1.jpg        0.341667              Match
+Img_41_2_3.jpg Img_6_2_5.jpg        0.352604              Match
+Img_41_2_3.jpg Img_8_1_1.jpg        0.360938              Match
+Img_41_2_3.jpg Img_8_2_1.jpg        0.338542              Match
+Img_44_1_5.jpg Img_44_2_2.jpg        0.315104              Match
+Img_44_1_5.jpg Img_45_1_5.jpg        0.390104              Match
+Img_44_1_5.jpg Img_45_2_5.jpg        0.396875              Match
+Img_44_1_5.jpg Img_46_1_5.jpg        0.385417              Match
+Img_44_1_5.jpg Img_46_2_4.jpg        0.366667              Match
+Img_44_1_5.jpg Img_5_1_5.jpg        0.372396              Match
+Img_44_1_5.jpg Img_5_2_3.jpg        0.376563              Match
+Img_44_1_5.jpg Img_6_1_1.jpg        0.360417              Match
+Img_44_1_5.jpg Img_6_2_5.jpg        0.371354              Match
+Img_44_1_5.jpg Img_8_1_1.jpg        0.356771              Match
+Img_44_1_5.jpg Img_8_2_1.jpg        0.357292              Match
+Img_44_2_2.jpg Img_45_1_5.jpg        0.393750              Match
+Img_44_2_2.jpg Img_45_2_5.jpg        0.384896              Match
+Img_44_2_2.jpg Img_46_1_5.jpg        0.389062              Match
+Img_44_2_2.jpg Img_46_2_4.jpg        0.370312              Match
+Img_44_2_2.jpg Img_5_1_5.jpg        0.354167              Match
+Img_44_2_2.jpg Img_5_2_3.jpg        0.363542              Match
+Img_44_2_2.jpg Img_6_1_1.jpg        0.361979              Match
+Img_44_2_2.jpg Img_6_2_5.jpg        0.361458              Match
+Img_44_2_2.jpg Img_8_1_1.jpg        0.364583              Match
+Img_44_2_2.jpg Img_8_2_1.jpg        0.354687              Match
+Img_45_1_5.jpg Img_45_2_5.jpg        0.331771              Match
+Img_45_1_5.jpg Img_46_1_5.jpg        0.370312              Match
+Img_45_1_5.jpg Img_46_2_4.jpg        0.378646              Match
+Img_45_1_5.jpg Img_5_1_5.jpg        0.390625              Match
+Img_45_1_5.jpg Img_5_2_3.jpg        0.388542              Match
+Img_45_1_5.jpg Img_6_1_1.jpg        0.364063              Match
+Img_45_1_5.jpg Img_6_2_5.jpg        0.375000              Match
+Img_45_1_5.jpg Img_8_1_1.jpg        0.383333              Match
+Img_45_1_5.jpg Img_8_2_1.jpg        0.376563              Match
+Img_45_2_5.jpg Img_46_1_5.jpg        0.387500              Match
+Img_45_2_5.jpg Img_46_2_4.jpg        0.378125              Match
+Img_45_2_5.jpg Img_5_1_5.jpg        0.385937              Match
+Img_45_2_5.jpg Img_5_2_3.jpg        0.391146              Match
+Img_45_2_5.jpg Img_6_1_1.jpg        0.368750              Match
+Img_45_2_5.jpg Img_6_2_5.jpg        0.370312              Match
+Img_45_2_5.jpg Img_8_1_1.jpg        0.367188              Match
+Img_45_2_5.jpg Img_8_2_1.jpg        0.379167              Match
+Img_46_1_5.jpg Img_46_2_4.jpg        0.360417              Match
+Img_46_1_5.jpg Img_5_1_5.jpg        0.385937              Match
+Img_46_1_5.jpg Img_5_2_3.jpg        0.383854              Match
+Img_46_1_5.jpg Img_6_1_1.jpg        0.344792              Match
+Img_46_1_5.jpg Img_6_2_5.jpg        0.364063              Match
+Img_46_1_5.jpg Img_8_1_1.jpg        0.374479              Match
+Img_46_1_5.jpg Img_8_2_1.jpg        0.363542              Match
+Img_46_2_4.jpg Img_5_1_5.jpg        0.375521              Match
+Img_46_2_4.jpg Img_5_2_3.jpg        0.377604              Match
+Img_46_2_4.jpg Img_6_1_1.jpg        0.377083              Match
+Img_46_2_4.jpg Img_6_2_5.jpg        0.372396              Match
+Img_46_2_4.jpg Img_8_1_1.jpg        0.377604              Match
+Img_46_2_4.jpg Img_8_2_1.jpg        0.365625              Match
+Img_5_1_5.jpg Img_5_2_3.jpg        0.326042              Match
+Img_5_1_5.jpg Img_6_1_1.jpg        0.368229              Match
+Img_5_1_5.jpg Img_6_2_5.jpg        0.375000              Match
+Img_5_1_5.jpg Img_8_1_1.jpg        0.357292              Match
+Img_5_1_5.jpg Img_8_2_1.jpg        0.367188              Match
+Img_5_2_3.jpg Img_6_1_1.jpg        0.358854              Match
+Img_5_2_3.jpg Img_6_2_5.jpg        0.375000              Match
+Img_5_2_3.jpg Img_8_1_1.jpg        0.352083              Match
+Img_5_2_3.jpg Img_8_2_1.jpg        0.359896              Match
+Img_6_1_1.jpg Img_6_2_5.jpg        0.320313              Match
+Img_6_1_1.jpg Img_8_1_1.jpg        0.361979              Match
+Img_6_1_1.jpg Img_8_2_1.jpg        0.355208              Match
+Img_6_2_5.jpg Img_8_1_1.jpg        0.377083              Match
+Img_6_2_5.jpg Img_8_2_1.jpg        0.363021              Match
+Img_8_1_1.jpg Img_8_2_1.jpg        0.271354              Match
